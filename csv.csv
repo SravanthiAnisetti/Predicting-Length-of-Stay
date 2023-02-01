@@ -1,0 +1,1352 @@
+,CCS Diagnosis Description,code,Gender,age,Length of Stay,Precautions
+0,"Disorders usually diagnosed in infancy, childhood, or adolescence",655,1,1,120,"Safe drinking water,sanitation and hygiene"
+1,Spinal cord injury,227,1,3,68,"Avoid moving the head or neck,don't roll alone"
+2,Other CNS infection and poliomyelitis,78,0,4,44,Good hand hygiene
+3,Other infections; including parasitic,8,0,1,38,"Drink clean water,wash hands regularly"
+4,Other disorders of stomach and duodenum,141,1,1,36,"Exercise regularly,eat a balanced diet"
+5,Respiratory failure; insufficiency; arrest (adult),131,1,1,35,"Take medication,don't smoke"
+6,Schizophrenia and other psychotic disorders,659,0,0,30,"Don't use drugs,Good nutrition and plenty of exercise"
+7,Late effects of cerebrovascular disease,113,0,1,30,"Quit smoking,control blood pressure"
+8,Mycoses,4,1,2,27,"Good hygiene,Stay away from animals,Wear sandals"
+9,Paralysis,82,1,4,26,Maintain balanced diet
+10,Tuberculosis,1,1,1,22,"Reduce exposure,establish cough etiquette"
+11,Bacterial infection; unspecified site,3,1,3,22,"Avoid touching face,stay at home,avoid junk food"
+12,Multiple sclerosis,80,0,4,21,"Regular exercise,managing stress"
+13,Cancer of bladder,32,1,3,20,"Don't smoke,drink plenty of liquids,exercise"
+14,Cancer of rectum and anus,15,0,2,20,"Get regular exercise,control weight,avoid alcohol"
+15,Poisoning by nonmedicinal substances,243,1,3,20,Get the person into fresh air as soon as possible.
+16,Diseases of mouth; excluding dental,137,1,4,20,Drink lots of fluids
+17,Respiratory failure; insufficiency; arrest (adult),131,1,2,19,"Don't smoke,exercise,avoid exposure to air pollution"
+18,Skull and face fractures,228,0,4,19,Regular exercise.
+19,Endometriosis,169,1,1,18,Exercise regularly (more than 4 hours a week).
+20,Cardiac arrest and ventricular fibrillation,107,1,2,18,Immediate CPR and AED shock device to heart
+21,Hodgkin`s disease,37,0,3,18,"Quit smoking,control blood pressure"
+22,Alcohol-related disorders,660,1,4,18,"Eat before drinking,don't drink and drive"
+23,Lung disease due to external agents,132,0,2,18,"Don't smoke,exercise"
+24,Cardiac arrest and ventricular fibrillation,107,1,3,17,Immediate CPR and AED shock device to heart
+25,Schizophrenia and other psychotic disorders,659,1,3,17,"Don't use drugs,Good nutrition and plenty of exercise"
+26,Mood disorers,657,0,4,17,Try to stick some sort of daily routine
+27,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,1,2,16,Wear mask
+28,Cancer of liver and intrahepatic bile duct,16,0,4,16,Avoid saturated or trans fats
+29,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,0,1,16,"Maintain good hygiene,avoid people who are sick"
+30,Cancer of other GI organs; peritoneum,18,1,4,16,Manage your body weight
+31,Burns,240,0,3,16,"Do not rub a burn,don't use ice,soak the burn in cool water"
+32,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,0,2,16,Wear mask and gloves
+33,Paralysis,82,0,4,16,Maintain balanced diet
+34,Gangrene,248,0,4,15,"Well balanced diet,exercise"
+35,Septicemia (except in labor),2,0,1,15,Practice good hygiene
+36,"Delirium, dementia, and amnestic and other cognitive disorders",653,0,4,15,"Exercise regularly,control blood pressure"
+37,Mycoses,4,1,3,15,"Good hygiene,Stay away from animals,Wear sandals"
+38,Late effects of cerebrovascular disease,113,1,3,15,"Quit smoking,lose weight"
+39,Malaise and fatigue,252,0,3,15,Get plenty of rest
+40,Peritonitis and intestinal abscess,148,1,1,15,Wash hands and cleaning the infection site with soap and water
+41,Cancer of bone and connective tissue,21,0,4,15,visit the doctor regularly
+42,"Impulse control disorders, NEC",656,1,2,15,practice medication
+43,Suicide and intentional self-inflicted injury,662,1,3,14,Reduce stress
+44,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,0,3,14,Wear mask and gloves
+45,Pathological fracture,207,0,2,14,limiting physical activity
+46,Gangrene,248,1,3,14,"Well balanced diet,exercise"
+47,"Impulse control disorders, NEC",656,0,3,14,practice medication
+48,Spinal cord injury,227,1,4,14,"Avoid moving the head or neck,don't roll alone"
+49,Cancer of stomach,13,1,3,14,Take diet that are rich in vitamin C and beta carotene
+50,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,1,1,13,
+51,Mood disorders,657,1,4,13,"Control stress,avoid caffeine,Practice healthy sleep habits"
+52,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,1,4,13,Wear mask and gloves
+53,Coma; stupor; and brain damage,85,1,4,13,
+54,Late effects of cerebrovascular disease,113,0,3,13,"Quit smoking,control blood pressure"
+55,Late effects of cerebrovascular disease,113,0,4,13,"Quit smoking,control blood pressure"
+56,Other aftercare,257,0,4,13,"Wear  mouth,nose and eye protection"
+57,Multiple myeloma,40,1,3,13,
+58,Late effects of cerebrovascular disease,113,1,4,13,"Quit smoking,control blood pressure"
+59,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,0,4,13,Wear mask and gloves
+60,Schizophrenia and other psychotic disorders,659,1,4,13,"Don't use drugs,Good nutrition and plenty of exercise"
+61,Schizophrenia and other psychotic disorders,659,0,3,13,"Don't use drugs,Good nutrition and plenty of exercise"
+62,Mycoses,4,0,3,13,"Good hygiene,Stay away from animals,Wear sandals"
+63,Cystic fibrosis,56,0,2,13,"Hand hygiene,gowns to prevent soiling of clothes with contact or droplets"
+64,Complication of device; implant or graft,237,0,1,13,Clean the site with approved skin antiseptic before inserting
+65,Personality disorders,658,1,3,13,Try to talk to them compassionately
+66,Other and ill-defined heart disease,104,1,2,12,Eat a hearty diet
+67,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,1,3,12,Wear mask and gloves
+68,Open wounds of extremities,236,1,3,12,Apply antibiotic ointment
+69,Complication of device; implant or graft,237,1,1,12,Clean the site with approved skin antiseptic before inserting
+70,Other aftercare,257,1,3,12,"Wear mouth,nose and eye protection"
+71,Schizophrenia and other psychotic disorders,659,1,2,12,"Don't use drugs,Good nutrition and plenty of exercise"
+72,Late effects of cerebrovascular disease,113,0,2,12,"Quit smoking,control blood pressure"
+73,Other eye disorders,91,0,4,12,"Maintain your blood sugar levels,wear protective eyewear"
+74,Mycoses,4,1,4,12,"Good hygiene,Stay away from animals,Wear sandals"
+75,Other non-epithelial cancer of skin,23,0,4,12,Practice sun safety
+76,Cardiac arrest and ventricular fibrillation,107,0,3,11,Immediate CPR and AED shock device to heart
+77,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,1,1,11,Wear mask and gloves
+78,Cancer of colon,14,1,3,11,"increasing physical activity,limit alcohol and smoking"
+79,Paralysis,82,0,3,11,Maintain balanced diet
+80,Cancer of uterus,25,1,3,11,Keeping a healthy weight
+81,Gangrene,248,0,3,11,"Well balanced diet,exercise"
+82,Other disorders of stomach and duodenum,141,0,3,11,"Exercise regularly,eat a balanced diet"
+83,Cancer of head and neck,11,0,4,11,"Don't use use tobacco products,limit the alcohol"
+84,Cancer of other GI organs; peritoneum,18,1,3,11,
+85,Cancer of brain and nervous system,35,1,1,11,Avoid smoking and excessive radiation exposure
+86,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),77,1,4,11,Avoid exposure to viruses
+87,Aspiration pneumonitis; food/vomitus,129,0,1,11,Maintain good oral hygiene
+88,Thyroid disorders,48,1,4,11,Avoid smoking or drinking alcohol
+89,Peritonitis and intestinal abscess,148,0,4,11,Wash hands and cleaning the infection site with soap and water
+90,Substance-related disorders,661,1,1,10,keep a well balanced life
+91,Multiple sclerosis,80,1,3,10,Manage stress
+92,Other diseases of bladder and urethra,162,0,4,10,"Drink plenty of liquids,do pelvic floor exercises"
+93,Aspiration pneumonitis; food/vomitus,129,1,3,10,Maintain good oral hygiene
+94,Septicemia (except in labor),2,0,3,10,Practice good hygiene
+95,Peritonitis and intestinal abscess,148,1,4,10,Wash hands and cleaning the infection site with soap and water
+96,Cancer of liver and intrahepatic bile duct,16,1,3,10,"Keeping your cholesterol, hypertension and blood sugar levels under control"
+97,Nutritional deficiencies,52,0,4,10,Boost antioxidants
+98,Systemic lupus erythematosus and connective tissue disorders,210,1,3,10,Avoid sun and bactrim
+99,Multiple myeloma,40,0,4,10,"Avoid raw meat,runny eggs and unwashed fruits and vegetables"
+100,Systemic lupus erythematosus and connective tissue disorders,210,1,2,10,Avoid sun and bactrim
+101,Thyroid disorders,48,0,4,10,Avoid smoking or drinking alcohol
+102,Diseases of mouth; excluding dental,137,1,3,10,Drink lots of fluids
+103,Other aftercare,257,0,3,10,"Wear mouth,nose and eye protection"
+104,Screening and history of mental health and substance abuse codes,663,0,2,10,"Have cold drinks,good oral hygiene"
+105,Cancer of stomach,13,1,4,10,Take diet that are rich in vitamin C and beta carotene
+106,Cystic fibrosis,56,1,1,10,"Hand hygiene,gowns to prevent soiling of clothes with contact or droplets"
+107,Other upper respiratory infections,126,1,3,10,Drinking plentty of fluids
+108,Fluid and electrolyte disorders,55,0,1,10,Drink plenty of water during physical activity
+109,Substance-related disorders,661,0,2,10,keep a well balanced life
+110,Gangrene,248,1,4,10,"Well balanced diet,exercise"
+111,Aortic; peripheral; and visceral artery aneurysms,115,0,3,10,
+112,Substance-related disorders,661,0,1,10,keep a well balanced life
+113,Pleurisy; pneumothorax; pulmonary collapse,130,0,2,10,"Get plenty of rest, Don't smoke, Avoid others who are sick"
+114,Other nervous system disorders,95,0,2,10,"Regular exercise,plenty of rest"
+115,Pleurisy; pneumothorax; pulmonary collapse,130,0,4,10,"Get plenty of rest, Don't smoke, Avoid others who are sick"
+116,"Delirium, dementia, and amnestic and other cognitive disorders",653,0,3,10,"Exercise regularly,control blood pressure"
+117,Other CNS infection and poliomyelitis,78,1,3,10,Good hand hygiene
+118,Coagulation and hemorrhagic disorders,62,0,2,10,Anti-fibrinolytic drugs to treat bleeding after childbirth or surgeries
+119,Multiple myeloma,40,0,3,10,
+120,Acute posthemorrhagic anemia,60,1,3,10,
+121,Systemic lupus erythematosus and connective tissue disorders,210,0,2,10,Avoid sun and bactrim
+122,Skull and face fractures,228,0,3,10,Follow medication
+123,Cancer of head and neck,11,1,3,10,"Don't use use tobacco products,limit the alcohol"
+124,Heart valve disorders,96,1,2,10,Balance diet and exercise
+125,Cardiac dysrhythmias,106,1,1,10,"Quit smoking,maintain healthy weight"
+126,Shock,249,1,4,10,Begin CPR
+127,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),77,1,2,10,Avoid exposure to viruses
+128,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,1,4,10,Wear mask and hand hygiene
+129,Aortic; peripheral; and visceral artery aneurysms,115,0,2,10,Get plenty of physical exercise
+130,Other hereditary and degenerative nervous system conditions,81,0,3,10,Improve your diet and regular exercise
+131,Alcohol-related disorders,660,0,1,9,"Eat before drinking,don't drink and drive"
+132,Cystic fibrosis,56,0,1,9,"Hand hygiene,gowns to prevent soiling of clothes with contact or droplets"
+133,Cancer of pancreas,17,1,4,9,"Quit smoking,choose a healthy diet"
+134,Cancer of bladder,32,1,4,9,"Don't smoke,drink plenty of liquids,exercise"
+135,Other infections; including parasitic,8,1,3,9,"Drink clean water,wash hands regularly"
+136,Gastroduodenal ulcer (except hemorrhage),139,1,1,9,"Moderate physical activity,avoid fatty food"
+137,"Delirium, dementia, and amnestic and other cognitive disorders",653,1,4,9,"Exercise regularly,control blood pressure"
+138,"Impulse control disorders, NEC",656,1,0,9,Practice medicatioN
+139,Other infections; including parasitic,8,1,2,9,"Drink clean water,wash hands regularly"
+140,Substance-related disorders,661,0,3,9,Keep a well balanced life
+141,Cancer of pancreas,17,0,4,9,"Quit smoking,choose a healthy diet"
+142,Cancer of bronchus; lung,19,1,4,9,"Eat dietfulness of fruits,stop smoking"
+143,Chronic ulcer of skin,199,0,4,9,"Avoid tobacco products,avoid alcohol,Use caution with aspirin "
+144,Sickle cell anemia,61,1,2,9," Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+145,Secondary malignancies,42,0,3,9,Stay away from tobacco
+146,Aspiration pneumonitis; food/vomitus,129,0,3,9,Maintain good oral hygiene
+147,Poisoning by other medications and drugs,242,1,3,9,Always check before combining different medicines
+148,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,1,2,9,
+149,Inflammatory conditions of male genital organs,165,0,3,9,Practice good hygiene
+150,Lung disease due to external agents,132,0,3,9,"Don't smoke,get regular checkups"
+151,Nephritis; nephrosis; renal sclerosis,156,1,1,9,avoid intravenous drug use
+152,Bacterial infection; unspecified site,3,0,3,9,"Avoid touching face,stay at home,avoid junk food"
+153,Immunity disorders,57,0,4,9,"Hand hygiene,eat right"
+154,Other lower respiratory disease,133,1,1,9,Minimize Exposure to Outdoor Air Pollution
+155,Schizophrenia and other psychotic disorders,659,0,2,8,"Don't use drugs,Good nutrition and plenty of exercise"
+156,Acute cerebrovascular disease,109,0,2,8,"Balanced diet,exercise"
+157,Poisoning by other medications and drugs,242,0,3,8,Always check before combining different medicines
+158,Pleurisy; pneumothorax; pulmonary collapse,130,0,3,8,"Get plenty of rest, Don't smoke, Avoid others who are sick"
+159,Cancer of colon,14,1,4,8,"Increasing physical activity,limit alcohol and smoking"
+160,Esophageal disorders,138,1,4,8,"Avoid alcohol,diet"
+161,Cancer of brain and nervous system,35,1,4,8,Avoid smoking and excessive radiation exposure
+162,Schizophrenia and other psychotic disorders,659,0,1,8,"Don't use drugs,Good nutrition and plenty of exercise"
+163,Septicemia (except in labor),2,1,3,8,Practice good hygiene
+164,Heart valve disorders,96,1,4,8,Balance diet and exercise
+165,Septicemia (except in labor),2,0,2,8,Practice good hygiene
+166,Cancer of colon,14,0,4,8,"Increasing physical activity,limit alcohol and smokin"
+167,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,0,3,8,
+168,Late effects of cerebrovascular disease,113,1,2,8,"Quit smoking,control blood pressure"
+169,Other diseases of bladder and urethra,162,1,4,8,Drink plenty of liquids
+170,Septicemia (except in labor),2,1,4,8,Practice good hygiene
+171,Paralysis,82,1,3,8,Maintain balanced diet
+172,Heart valve disorders,96,0,3,8,Balance diet and exercise
+173,Anxiety disorders,651,1,0,8,"Limit alcohol,keep an anxiety journal"
+174,Acute cerebrovascular disease,109,1,3,8,"Balanced diet,exercise"
+175,Secondary malignancies,42,0,4,8,Practice good hygiene
+176,Septicemia (except in labor),2,0,4,8,Practice good hygiene
+177,Alcohol-related disorders,660,0,3,8,"Eat before drinking,don't drink and drive"
+178,Aspiration pneumonitis; food/vomitus,129,1,2,8,Maintain good oral hygiene
+179,Complications of surgical procedures or medical care,238,1,2,8,Proper hydration
+180,Peripheral and visceral atherosclerosis,114,0,4,8,Get plenty of physical activity
+181,Alcohol-related disorders,660,0,2,8,"Eat before drinking,don't drink and drive"
+182,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,0,4,8,
+183,Other liver diseases,151,1,2,8,Limit alcohol
+184,Mood disorders,657,0,0,8,Manage stress
+185,Other nutritional; endocrine; and metabolic disorders,58,0,3,8,"Eat smaller meals,walking"
+186,Cancer of stomach,13,0,4,8,Take diet that are rich in vitamin C and beta carotene
+187,Chronic kidney disease,158,1,4,8,"Stop smoking,healthy diet"
+188,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,0,1,8,
+189,Parkinson`s disease,79,1,3,8,"A balanced diet of whole foods,stay hydrated,aerobic exercises"
+190,"Impulse control disorders, NEC",656,1,1,8,practice medication
+191,Spinal cord injury,227,0,4,8,"Avoid moving the head or neck,don't roll alone"
+192,Sickle cell anemia,61,0,3,8,"Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+193,Cystic fibrosis,56,1,2,8,"Hand hygiene,gowns to prevent soiling of clothes with contact or droplets"
+194,Congestive heart failure; nonhypertensive,108,0,1,8,"stop smoking,lose weight if you are over weight"
+195,Parkinson`s disease,79,1,4,8,"A balanced diet of whole foods,stay hydrated,aerobic exercises"
+196,Aspiration pneumonitis; food/vomitus,129,0,2,8,Maintain good oral hygiene
+197,Other inflammatory condition of skin,198,0,3,8,Using cool wraps to ease irritated skin
+198,Cancer of bone and connective tissue,21,1,2,8,There is no way to protect against most of these cancers
+199,Cancer of bone and connective tissue,21,0,2,8,There is no way to protect against most of these cancers
+200,Other diseases of bladder and urethra,162,1,3,8,Drink plenty of liquids
+201,Aortic and peripheral arterial embolism or thrombosis,116,0,3,8,"Exercise your legs,wear loose clothes"
+202,Other CNS infection and poliomyelitis,78,1,4,8,Good hand hygiene
+203,Malaise and fatigue,252,1,2,8,Get plenty of rest
+204,"Impulse control disorders, NEC",656,0,0,7,practice medication
+205,Peripheral and visceral atherosclerosis,114,1,4,7,"Regular exercise,proper nutrition"
+206,Cancer of rectum and anus,15,1,4,7,"Get regular exercise,control weight,avoid alcohol"
+207,Hypertension with complications and secondary hypertension,99,0,2,7,"Eat healthy foods,decrease salt,limit alcohol"
+208,Crushing injury or internal injury,234,1,4,7,Do not remove or modify safety features and guards
+209,Genitourinary symptoms and ill-defined conditions,163,0,3,7,"Drink plenty of liquids,try cranberry juice"
+210,Schizophrenia and other psychotic disorders,659,1,1,7,"Don't use drugs,Good nutrition and plenty of exercise"
+211,Alcohol-related disorders,660,1,2,7,"Eat before drinking,don't drink and drive"
+212,Sickle cell anemia,61,0,2,7,"Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+213,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,1,3,7,
+214,Acute cerebrovascular disease,109,1,1,7,"Balanced diet,exercise"
+215,Other ear and sense organ disorders,94,1,3,7,Healthy lifestyle 
+216,Other liver diseases,151,0,4,7,Limit alcohol
+217,Mood disorders,657,1,3,7,Try to stick some sort of daily routine
+218,Acute cerebrovascular disease,109,0,3,7,"Balanced diet,exercise"
+219,Cancer of other GI organs; peritoneum,18,0,3,7,
+220,Sickle cell anemia,61,1,3,7,"Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+221,Intracranial injury,233,0,4,7,
+222,Pulmonary heart disease,103,1,3,7,"Quit smoking,stay away from second hand smoke"
+223,Gastroduodenal ulcer (except hemorrhage),139,1,4,7,"Moderate physical activity,avoid fatty food"
+224,Gastroduodenal ulcer (except hemorrhage),139,0,3,7,"Moderate physical activity,avoid fatty food"
+225,Diseases of white blood cells,63,0,3,7,"stay clean,avoid sick people,stay away from crowds"
+226,Secondary malignancies,42,0,2,7,Stay away from tobacco
+227,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,1,4,7,
+228,Other disorders of stomach and duodenum,141,0,4,7,"Exercise regularly,eat a balanced diet"
+229,Other and unspecified benign neoplasm,47,0,4,7,
+230,Cancer of pancreas,17,0,3,7,"Quit smoking,choose a healthy diet"
+231,Substance-related disorders,661,1,2,7,keep a well balanced life
+232,Other nervous system disorders,95,0,4,7,"Regular exercise,plenty of rest"
+233,Cancer of colon,14,0,3,7,"Increasing physical activity,limit alcohol and smoking"
+234,Hypertension with complications and secondary hypertension,99,0,1,7,"Eat healthy foods,decrease salt,limit alcohol"
+235,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,1,2,7,
+236,Other aftercare,257,1,4,7,"Wear mouth,nose and eye protection"
+237,Alcohol-related disorders,660,1,1,7,"Eat before drinking,don't drink and drive"
+238,Complication of device; implant or graft,237,0,4,7,"Have cold drinks,good oral hygiene"
+239,Pancreatic disorders (not diabetes),152,1,3,7,Avoid smoking and alcohol
+240,Screening and history of mental health and substance abuse codes,663,1,2,7,"Keep active,develop new skills"
+241,Anxiety disorders,651,0,1,7,"Limit alcohol,keep an anxiety journal"
+242,Other lower respiratory disease,133,1,2,7,Minimize Exposure to Outdoor Air Pollution
+243,Complication of device; implant or graft,237,1,3,7,"Have cold drinks,good oral hygiene"
+244,Respiratory failure; insufficiency; arrest (adult),131,0,4,7,
+245,Schizophrenia and other psychotic disorders,659,0,4,7,"Don't use drugs,Good nutrition and plenty of exercise"
+246,Systemic lupus erythematosus and connective tissue disorders,210,1,1,7,Avoid sun and bactrim
+247,Aspiration pneumonitis; food/vomitus,129,0,4,7,Maintain good oral hygiene
+248,Calculus of urinary tract,160,0,4,7,
+249,Secondary malignancies,42,1,3,7,Stay away from tobacco
+250,Complication of device; implant or graft,237,0,2,7,"Have cold drinks,good oral hygiene"
+251,Alcohol-related disorders,660,1,3,7,"Eat before drinking,don't drink and drive"
+252,Cancer of pancreas,17,1,3,7,"Quit smoking,choose a healthy diet"
+253,Heart valve disorders,96,1,3,7,Balance diet and exercise
+254,Complications of surgical procedures or medical care,238,0,4,7,Proper hydration
+255,Respiratory failure; insufficiency; arrest (adult),131,1,4,7,
+256,Parkinson`s disease,79,0,4,7,"A balanced diet of whole foods,stay hydrated,aerobic exercises"
+257,Hemorrhoids,120,0,3,7,Eat more foods that are high in fibre
+258,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),77,1,1,7,Avoid exposure to viruses
+259,Calculus of urinary tract,160,1,4,7,Follow healthy diet
+260,Gout and other crystal arthropathies,54,0,4,7,"Loose weight,limit alcohol"
+261,Acute myocardial infarction,100,1,1,7,"Control diet,exercise,control blood pressure"
+262,Systemic lupus erythematosus and connective tissue disorders,210,0,1,7,Avoid sun and bactrim
+263,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),90,1,3,7,"Control blood sugar, lose weight, Avoid fried foods"
+264,Multiple myeloma,40,1,4,7,
+265,Acute and unspecified renal failure,157,1,1,7,"Get active,control sugar level"
+266,Cancer of bronchus; lung,19,0,2,7,"Eat dietfulness of fruits,stop smoking"
+267,Genitourinary congenital anomalies,215,0,3,7,"Do pelvic floor exercises,healthy diet,drink water"
+268,Hepatitis,6,0,4,7,Get the vaccines for hepatitis A and hepatitis B
+269,Hepatitis,6,1,1,7,Get the vaccines for hepatitis A and hepatitis B
+270,Nephritis; nephrosis; renal sclerosis,156,1,4,7,Avoid intravenous drug use
+271,Coma; stupor; and brain damage,85,0,2,7,
+272,Poisoning by psychotropic agents,241,1,1,7,
+273,Heart valve disorders,96,0,4,6,Balance diet and exercise
+274,Schizophrenia and other psychotic disorders,659,1,0,6,"Don't use drugs,Good nutrition and plenty of exercise"
+275,Respiratory failure; insufficiency; arrest (adult),131,1,3,6,
+276,Diabetes mellitus with complications,50,0,4,6,"Don't smoke,control blood pressure,regular physical activity"
+277,Diabetes mellitus with complications,50,1,3,6,"Don't smoke,control blood pressure,regular physical activity"
+278,Other disorders of stomach and duodenum,141,1,3,6,"Exercise regularly,eat a balanced diet"
+279,Cardiac arrest and ventricular fibrillation,107,0,4,6,Immediate CPR and AED shock device to heart
+280,Other and unspecified benign neoplasm,47,1,3,6,Avoid exposure to radiation
+281,Pathological fracture,207,1,4,6,"Limit physical activity,take pain medications"
+282,Other liver diseases,151,1,3,6,Limit alcohol
+283,Pleurisy; pneumothorax; pulmonary collapse,130,1,3,6,"Get plenty of rest, Don't smoke, Avoid others who are sick"
+284,Hypertension with complications and secondary hypertension,99,0,4,6,"Eat healthy foods,decrease salt,limit alcohol"
+285,Epilepsy; convulsions,83,0,2,6,"Limit alcohol,manage stress"
+286,Other nervous system disorders,95,1,3,6,"Regular exercise,get plenty of rest"
+287,Chronic ulcer of skin,199,0,2,6,"Avoid tobacco products,avoid alcohol,Use caution with aspirin"
+288,Neoplasms of unspecified nature or uncertain behavior,44,1,4,6,"Don't use tobacco,healthy diet"
+289,Anxiety disorders,651,0,3,6,"Limit alcohol,keep an anxiety journal"
+290,Fracture of neck of femur (hip),226,0,3,6,Donot reach forward towards your feet
+291,Acute cerebrovascular disease,109,0,4,6,"Balanced diet,exercise"
+292,Aspiration pneumonitis; food/vomitus,129,1,4,6,Maintain good oral hygiene
+293,Mood disorders,657,0,3,6,Try to stick some sort of daily routine
+294,Other lower respiratory disease,133,0,4,6,Minimize Exposure to Outdoor Air Pollution
+295,Septicemia (except in labor),2,1,2,6,Practice good hygiene
+296,Hepatitis,6,0,3,6,Get the vaccines for hepatitis A and hepatitis B
+297,Respiratory failure; insufficiency; arrest (adult),131,0,2,6,
+298,Acute cerebrovascular disease,109,1,2,6,"Balanced diet,exercise"
+299,Coma; stupor; and brain damage,85,0,4,6,
+300,Intestinal obstruction without hernia,145,0,1,6,Have 5 to 6 small meals
+301,Mood disorders,657,1,0,6,Try to stick some sort of daily routine
+302,Acute and unspecified renal failure,157,1,3,6,"Balance diet,avoid salt"
+303,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,0,4,6,
+304,Shock,249,0,4,6,Begin CPR
+305,Aortic and peripheral arterial embolism or thrombosis,116,1,4,6,
+306,Intestinal obstruction without hernia,145,0,2,6,Have 5 to 6 small meals
+307,Epilepsy; convulsions,83,0,3,6,"Limit alcohol,manage stress"
+308,Genitourinary symptoms and ill-defined conditions,163,0,4,6,"Do pelvic floor exercises,healthy diet,drink water"
+309,Respiratory failure; insufficiency; arrest (adult),131,0,3,6,
+310,Complication of device; implant or graft,237,1,4,6,Proper hydration
+311,Multiple sclerosis,80,1,4,6,"Eat healthy diet,manage stress"
+312,Rehabilitation care; fitting of prostheses; and adjustment of devices,254,0,1,6,Wear mask and gloves
+313,Crushing injury or internal injury,234,0,4,6,Don't remove or modify safety features and guards
+314,Complications of surgical procedures or medical care,238,1,4,6,Proper hydration
+315,Acute bronchitis,125,1,4,6,"Avoid close contact with people who have illness,good hygiene"
+316,Complications of surgical procedures or medical care,238,0,3,6,Proper hydration
+317,Other circulatory disease,117,0,4,6,"Don't smoke,quality sleep,healthy weight"
+318,Abdominal hernia,143,1,2,6,"Avoid heavy lifting,eat high fibre foods"
+319,Cancer of brain and nervous system,35,1,2,6,
+320,Other and ill-defined heart disease,104,1,4,6,
+321,Poisoning by psychotropic agents,241,0,3,6,
+322,Intracranial injury,233,1,4,6,
+323,Diabetes mellitus with complications,50,0,3,6,"Don't smoke,control blood pressure,regular physical activity"
+324,Epilepsy; convulsions,83,0,4,6,"Limit alcohol,manage stress"
+325,Cancer of bronchus; lung,19,0,4,6,"Eat dietfulness of fruits,stop smoking"
+326,Screening and history of mental health and substance abuse codes,663,1,3,6,"Keep active,develop new skills"
+327,Other upper respiratory disease,134,1,3,6,"Avoid contact with people who are sick,stop smoking"
+328,Other nervous system disorders,95,1,4,6,"Regular exercise,plenty of rest"
+329,Secondary malignancies,42,1,4,6,Stay away from tobacco
+330,Other nervous system disorders,95,1,2,6,"Regular exercise,plenty of rest"
+331,Congestive heart failure; nonhypertensive,108,1,3,6,"stop smoking,lose weight if you are over weight"
+332,Other hereditary and degenerative nervous system conditions,81,1,4,6,
+333,Regional enteritis and ulcerative colitis,144,0,4,6,
+334,Septicemia (except in labor),2,1,1,6,Practice good hygiene
+335,Other fractures,231,1,3,6,
+336,Other and unspecified benign neoplasm,47,1,4,6,
+337,Complication of device; implant or graft,237,0,3,6,Proper hydration
+338,Heart valve disorders,96,0,2,6,Balance diet and exercise
+339,Intestinal infection,135,1,4,6,"wash hands frequently,avoid under cooked food"
+340,Acute and unspecified renal failure,157,0,4,6,"Get active,control sugar level"
+341,Multiple sclerosis,80,1,2,6,"Healthy diet,regular exercise"
+342,Hypertension with complications and secondary hypertension,99,0,3,6,"Eat healthy foods,decrease salt,limit alcohol"
+343,Pancreatic disorders (not diabetes),152,0,4,6,"Stop smoking,choose low fat diet"
+344,Screening and history of mental health and substance abuse codes,663,0,3,6,"Have cold drinks,good oral hygiene"
+345,Other connective tissue disease,211,0,4,6,"Reduce stress,protect hands from cold"
+346,Pancreatic disorders (not diabetes),152,1,4,6,"Stop smoking,choose low fat diet"
+347,Complication of device; implant or graft,237,1,2,6,Proper hydration
+348,Coronary atherosclerosis and other heart disease,101,0,4,6,
+349,Other gastrointestinal disorders,155,1,3,6,"Protective eyewear and mask,wearing gloves"
+350,Acute and unspecified renal failure,157,0,3,6,Avoid intravenous drug use
+351,Epilepsy; convulsions,83,1,1,6,"Limit alcohol,manage stress"
+352,Gastrointestinal hemorrhage,153,1,3,6,Limit your use of nonsteroidal anti-inflammatory drugs and alcohol
+353,Peripheral and visceral atherosclerosis,114,0,3,6,
+354,Gastrointestinal hemorrhage,153,1,4,6,Limit your use of nonsteroidal anti-inflammatory drugs and alcohol
+355,Acute cerebrovascular disease,109,1,4,6,"Balanced diet,exercise"
+356,Pulmonary heart disease,103,1,4,6,"Quit smoking,stay away from second hand smoke"
+357,Other aftercare,257,1,2,6,"Wear mouth,nose and eye protection"
+358,Residual codes; unclassified,259,0,2,6,
+359,Malaise and fatigue,252,0,2,6,Get plenty of rest
+360,Malaise and fatigue,252,0,4,6,Get plenty of rest
+361,Other CNS infection and poliomyelitis,78,0,1,6,Good hand hygiene
+362,Gout and other crystal arthropathies,54,0,1,6,"Limit alcohol ,loose weight"
+363,Gout and other crystal arthropathies,54,1,4,6,"Limit alcohol ,loose weight"
+364,Cancer of esophagus,12,1,4,6,Avoid tobacco and alcohol
+365,Aortic; peripheral; and visceral artery aneurysms,115,1,1,6,
+366,Cancer of rectum and anus,15,1,3,6,"Get regular exercise,control weight,avoid alcohol"
+367,Chronic kidney disease,158,0,4,6,"Stop smoking,regular exercise"
+368,Adjustment disorders,650,0,0,6,Develope healthy coping skills
+369,Deficiency and other anemia,59,0,1,6,"Consuming a diet rich in iron,vitamin B-12"
+370,Acute and unspecified renal failure,157,0,1,6,Avoid intravenous drug use
+371,Nephritis; nephrosis; renal sclerosis,156,1,3,6,Avoid intravenous drug use
+372,Screening and history of mental health and substance abuse codes,663,0,4,6,"Have cold drinks,good oral hygiene"
+373,Nausea and vomiting,250,1,4,6,"Drink  ice-cold drinks and Avoid fried, greasy, or sweet foods"
+374,Mycoses,4,0,4,6,"Good hygiene,Stay away from animals,Wear sandals"
+375,Varicose veins of lower extremity,119,0,3,6,"Avoid salt,avoid tight clothes"
+376,Urinary tract infections,159,0,1,6,"Drink plenty of liquids,try craneberry"
+377,Intestinal obstruction without hernia,145,0,3,5,Have 5 to 6 small meals
+378,Other liver diseases,151,0,3,5,Limit alcohol
+379,Substance-related disorders,661,1,3,5,keep a well balanced life
+380,Intestinal obstruction without hernia,145,1,4,5,Have 5 to 6 small meals
+381,Congestive heart failure; nonhypertensive,108,0,3,5,"stop smoking,lose weight if you are over weight"
+382,Deficiency and other anemia,59,0,3,5,maintain balanced diet
+383,Complications of surgical procedures or medical care,238,1,3,5,Proper hydration
+384,Diabetes mellitus with complications,50,1,4,5,"Don't smoke,control blood pressure,regular physical activity"
+385,Other diseases of veins and lymphatics,121,1,3,5,Avoid exposure to toxic chemicals
+386,Peritonitis and intestinal abscess,148,0,3,5,"Wear mask,wash hands"
+387,Gastroduodenal ulcer (except hemorrhage),139,0,4,5,"moderate physical activity,avoid fatty food"
+388,Fracture of lower limb,230,0,2,5,Stop any bleeding.Apply pressure to wound with a bandage.
+389,Esophageal disorders,138,0,4,5,"Avoid eating late at night,avoid tobacco"
+390,Abdominal hernia,143,0,4,5,"Avoid heavy lifting,eat high fibre foods"
+391,Sickle cell anemia,61,1,1,5,"Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+392,Adjustment disorders,650,1,0,5,Develope healthy coping skills
+393,Regional enteritis and ulcerative colitis,144,1,1,5,
+394,Pulmonary heart disease,103,0,4,5,"Quit smoking,stay away from second hand smoke"
+395,Hepatitis,6,1,3,5,Get the vaccines for hepatitis A and hepatitis B
+396,Miscellaneous disorders,670,1,3,5,
+397,Hepatitis,6,1,2,5,Get the vaccines for hepatitis A and hepatitis B
+398,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,1,3,5,"Maintain good hygiene,avoid people who are sick"
+399,Other disorders of stomach and duodenum,141,1,4,5,"Exercise regularly,eat a balanced diet"
+400,Other nutritional; endocrine; and metabolic disorders,58,1,4,5,"Boost antioxidants,Eat healthy fats,get adequate vit-D"
+401,Sickle cell anemia,61,0,1,5,"Drink plenty of water,Exercise regularly, Avoid temperature extremes"
+402,Influenza,123,1,3,5,"Avoid close contact,Practice other good health habits"
+403,Gastroduodenal ulcer (except hemorrhage),139,0,2,5,"moderate physical activity,avoid fatty food"
+404,Other diseases of veins and lymphatics,121,1,4,5,"Avoid exposure of toxins,drink plenty of water"
+405,Other gastrointestinal disorders,155,1,4,5,"Quit smoking,exercise"
+406,Other diseases of kidney and ureters,161,1,3,5,"Get active,quit smoking"
+407,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,1,2,5,Maintain  good hygiene
+408,Syncope,245,1,3,5,"Don't strain,careful in hot weather"
+409,Other injuries and conditions due to external causes,244,1,3,5,
+410,Intestinal infection,135,0,4,5,"Wash hands frequently,avoid under cooked food"
+411,Diseases of white blood cells,63,0,4,5,"Stay clean,avoid sick people,stay away from crowds"
+412,Diverticulosis and diverticulitis,146,1,4,5,High fibre diet
+413,Acute and unspecified renal failure,157,1,4,5,Avoid intravenous drug use
+414,Acute myocardial infarction,100,0,4,5,Physical activity and exercise.
+415,Acute myocardial infarction,100,1,4,5,Physical activity and exercise.
+416,Fracture of neck of femur (hip),226,1,4,5,"sit on firm chair,don't bring your knee higher than hip"
+417,Superficial injury; contusion,239,0,3,5,"Control bleeding,manage pain,dry the woud"
+418,Other endocrine disorders,51,0,3,5,"Healthy weight,include iodine in diet"
+419,Cancer of kidney and renal pelvis,33,0,4,5,"Stop smoking,lowering blood pressure"
+420,Cancer of esophagus,12,1,3,5,Avoid tobacco and alcohol use
+421,Adjustment disorders,650,0,4,5,Develope healthy coping skills
+422,Phlebitis; thrombophlebitis and thromboembolism,118,0,4,5,"Apply heat to painful area,elevate the affected leg"
+423,Chronic obstructive pulmonary disease and bronchiectasis,127,0,3,5,Quit smoking
+424,Other bone disease and musculoskeletal deformities,212,0,3,5,Include plenty of calcium in your diet
+425,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,1,3,5,
+426,Cancer of bladder,32,0,4,5,"Don't smoke,drink plenty of liquids,exercise"
+427,Non-Hodgkin`s lymphoma,38,0,4,5,"Avoid foods that are high in saturated fats,limit trans fats,Choose foods that are high in protein"
+428,Other nervous system disorders,95,0,3,5,"Regular exercise,plenty of rest"
+429,Other gastrointestinal disorders,155,0,3,5,"Protective eyewear and mask,wearing gloves"
+430,Gastrointestinal hemorrhage,153,0,4,5,Limit your use of nonsteroidal anti-inflammatory drugs and alcohol
+431,Intestinal obstruction without hernia,145,1,1,5,Avoid high fibre foods
+432,Other skin disorders,200,0,3,5,"Wash hands properly,do not share items"
+433,Other infections; including parasitic,8,0,3,5,"Drink clean water,wash hands regularly"
+434,Cancer of rectum and anus,15,0,3,5,"Get regular exercise,control weight,avoid alcohol"
+435,Aortic and peripheral arterial embolism or thrombosis,116,1,2,5,
+436,Acute and unspecified renal failure,157,0,2,5,Avoid intravenous drug use
+437,Cancer of liver and intrahepatic bile duct,16,0,3,5,"Keeping your cholesterol, hypertension and blood sugar levels under control"
+438,Non-Hodgkin`s lymphoma,38,0,3,5,"Avoid foods that are high in saturated fats,limit trans fats,Choose foods that are high in protein"
+439,Deficiency and other anemia,59,0,4,5,"Consuming a diet rich in iron,vitamin B-12"
+440,Peripheral and visceral atherosclerosis,114,1,3,5,
+441,Skin and subcutaneous tissue infections,197,1,3,5,Wash your hands.Never share personal items such as towels.
+442,Pleurisy; pneumothorax; pulmonary collapse,130,1,4,5,"Get plenty of rest, Don't smoke, Avoid others who are sick"
+443,Influenza,123,0,3,5,"Avoid close contact,Practice other good health habits"
+444,Biliary tract disease,149,0,2,5,Follow medications.
+445,Other circulatory disease,117,1,2,5,"Balanced diet,Keep to a healthy weight, Keep your diabetes under control"
+446,Substance-related disorders,661,1,4,5,Avoid Temptation and peer pressure
+447,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,0,3,5,Drink plenty of fluids
+448,Mood disorders,657,1,2,5,Early diagnosis and treatment
+449,Intestinal obstruction without hernia,145,0,4,5,chew your food very well
+450,Influenza,123,0,4,5,Avoid close contact with people who are sick
+451,Cancer of head and neck,11,0,3,5,Avoiding alcohol abuse
+452,Hypertension with complications and secondary hypertension,99,1,4,5,keep yourself at a healthy weight
+453,Cancer of rectum and anus,15,0,4,5,Talk to your doctor about cancer screening
+454,Other and unspecified benign neoplasm,47,0,3,5,
+455,Coronary atherosclerosis and other heart disease,101,1,4,5,Eating healthy foods and getting more exercise
+456,Aortic and peripheral arterial embolism or thrombosis,116,0,4,5,"Change your position often, especially during a long trip"
+457,Regional enteritis and ulcerative colitis,144,1,4,5,Not drinking carbonated drinks
+458,Other nervous system disorders,95,1,1,5,Get plenty of rest
+459,Diverticulosis and diverticulitis,146,1,3,5,Eat more fiber
+460,Hypertension with complications and secondary hypertension,99,1,3,5,"Get enough sleep,Do not smoke"
+461,Pathological fracture,207,0,4,5,Follow a diet rich in calcium and vitamin D
+462,Cancer of brain and nervous system,35,1,3,5,Exposure to pesticides and insecticides
+463,Chronic ulcer of skin,199,0,3,5,Avoid that cause skin sensitivity
+464,Congestive heart failure; nonhypertensive,108,1,2,5,Reducing and managing stress
+465,Mood disorders,657,1,1,5,Maintain a balanced diet and healthy lifestyle
+466,Influenza,123,1,4,5,Cover your mouth and nose
+467,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,1,4,5,Good hygiene
+468,Congestive heart failure; nonhypertensive,108,1,4,5,Staying physically active
+469,Congestive heart failure; nonhypertensive,108,0,4,5,Eating healthy foods
+470,Fracture of neck of femur (hip),226,0,4,5,
+471,Skin and subcutaneous tissue infections,197,1,2,5,Prevent insect bites
+472,Skin and subcutaneous tissue infections,197,0,3,5,"Avoid tattooing,shaving and waxing during travel"
+473,Aortic and peripheral arterial embolism or thrombosis,116,0,2,5,Stop smoking and exercise regularly
+474,Menstrual disorders,171,1,3,5,Maintain a healthy diet
+475,Cancer of brain and nervous system,35,0,1,5,Avoiding environmental hazards
+476,Cancer of bronchus; lung,19,1,2,5,Avoid smoking
+477,Neoplasms of unspecified nature or uncertain behavior,44,0,4,5,
+478,Multiple sclerosis,80,0,2,5,Eating a healthy diet
+479,Hemorrhoids,120,1,4,5,Eat more foods that are high in fiber
+480,Other liver diseases,151,1,4,5,Protect your skin
+481,Fracture of upper limb,229,0,4,5,Monitor your sodium intake
+482,Other diseases of veins and lymphatics,121,0,2,5,Avoid exposure to toxic chemicals 
+483,Cancer of other GI organs; peritoneum,18,0,4,5,Eat low fat dairy products
+484,Cancer of prostate,29,0,4,5,Choose a low fat diet
+485,Cancer of kidney and renal pelvis,33,1,4,5,Avoid smoking
+486,Cancer of kidney and renal pelvis,33,1,2,5,Maintaining a healthy body weight
+487,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,0,2,5,Control blood sugar
+488,Cancer of colon,14,0,2,5,Increase in physical activity
+489,Other injuries and conditions due to external causes,244,0,1,5,Drowning and submersion
+490,Other CNS infection and poliomyelitis,78,0,3,5,Practice good hand hygiene
+491,Open wounds of extremities,236,0,3,5,Wash the wound right away with soap and water
+492,Other hematologic conditions,64,0,2,5,Annual physical examinations
+493,Other hereditary and degenerative nervous system conditions,81,1,3,5,Mediate the to clear out the daily life stress
+494,Other infections; including parasitic,8,0,2,5,The safe use and disposal of sharps
+495,Cancer of thyroid,36,1,2,5,Minimize radiation explosure
+496,Genitourinary symptoms and ill-defined conditions,163,1,4,5,Drink plenty of liquids
+497,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,1,3,5,Wear mask and face protection for intubation
+498,Alcohol-related disorders,660,0,4,5,Don't drink too much alcohol
+499,Varicose veins of lower extremity,119,1,2,5,"Exercise, Manage weight, Avoid salt"
+500,"Delirium, dementia, and amnestic and other cognitive disorders",653,1,3,5,
+501,Allergic reactions,253,1,3,5,"Avoid your allergens, Take your medicines as prescribed"
+502,Acute cerebrovascular disease,109,0,1,5,Avoiding or quitting smoking
+503,Peritonitis and intestinal abscess,148,0,2,5,e sure to clean between your fingers and under your fingernails
+504,Developmental disorders,654,0,2,5,
+505,Personality disorders,658,1,2,5,"Seeking help as soon as symptoms appear can help decrease the disruption to the person's life, family and friendships"
+506,Anal and rectal conditions,147,1,2,5,"Eat high-fiber foods, drink fluids and exercise regularly to keep from having to strain during bowel movements"
+507,Sexually transmitted infections (not HIV or hepatitis),9,0,4,5,"Abstinence, Get vaccinated, Practice mutual monogamy, Use condoms"
+508,Pathological fracture,207,0,1,5, Exercise on a regular basis to keep your muscles strong and improve bone health. Get enough vitamin D and calcium
+509,Regional enteritis and ulcerative colitis,144,1,3,5,"Not drinking carbonated drinks.Not eating high-fiber foods such as popcorn, vegetable skins, and nuts while you have symptoms"
+510,Other screening for suspected conditions (not mental disorders or infectious disease),258,0,2,5,
+511,Abdominal hernia,143,1,4,4,Maintain ideal body weight by eating a healthy diet and exercising
+512,Complications of surgical procedures or medical care,238,0,2,4,keep the wound clean and dry.The dressing should be removed and wounds covered with adhesive bandages on the first or second day after surgery.
+513,Esophageal disorders,138,0,3,4,Avoid eating late at night and allow at least three hours between eating and lying down
+514,Coronary atherosclerosis and other heart disease,101,0,3,4,"Eat a healthy, balanced diet. A low-fat, high-fibre diet is recommended, which should include plenty of fresh fruit and vegetables and whole grains"
+515,Chronic obstructive pulmonary disease and bronchiectasis,127,1,4,4,Refrain from smoking during the entire course of the treatment
+516,Fluid and electrolyte disorders,55,0,2,4,"Weigh patient daily, Administer pain medication as appropriate, Provide intravenous or oral hydration as needed"
+517,Mood disorders,657,0,2,4,"Prioritize a routine sleeping schedule, including going to sleep and getting up at the same times every day"
+518,Biliary tract disease,149,0,4,4,
+519,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,0,4,4," Good hygiene (washing your hands often), quitting smoking, and keeping your immune system strong by getting regular physical activity and eating healthy"
+520,Other fractures,231,0,4,4,
+521,Complications of surgical procedures or medical care,238,1,1,4,keep the wound clean and dry.The dressing should be removed and wounds covered with adhesive bandages on the first or second day after surgery.
+522,Diverticulosis and diverticulitis,146,0,4,4,"Exercise regularly, Eat more fiber, Drink plenty of fluids"
+523,Intestinal infection,135,1,3,4,"Proper hand-washing, Disinfecting of contaminated surfaces with bleach, Washing of soiled articles of clothing."
+524,Skin and subcutaneous tissue infections,197,1,4,4,"Wash your hands, Prevent insect bites, Avoid scratching insect bites"
+525,Acute myocardial infarction,100,1,3,4,"Stop smoking, Change your diet, Lower your cholesterol, Alcohol."
+526,Other acquired deformities,209,0,4,4,Regular and appropriate exercises.
+527,Other lower respiratory disease,133,1,4,4,Wash your hands regularly.
+528,Biliary tract disease,149,1,3,4,Decrease the amount of sugar and saturated fats in your diet
+529,Other nutritional; endocrine; and metabolic disorders,58,0,4,4,Eat healthy foods and get plenty of exercise.
+530,Substance-related disorders,661,0,4,4,Keep a well-balanced life.
+531,Other acquired deformities,209,1,4,4,Regular yogic exercises
+532,Deficiency and other anemia,59,1,3,4, Drinking enough water to stay hydrated.
+533,Coronary atherosclerosis and other heart disease,101,0,2,4,eating healthy foods and getting more exercise.
+534,Fluid and electrolyte disorders,55,1,4,4,drink plenty of water during physical activity
+535,Cardiac dysrhythmias,106,1,4,4,Exercise regularly.
+536,Poisoning by other medications and drugs,242,1,2,4,Keep products in their original containers. Do not use food containers (such as cups or bottles)
+537,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,0,2,4,  Promote exercise and physical activity. 
+538,Other gastrointestinal disorders,155,0,4,4,Eat fruits and vegetables.
+539,Other endocrine disorders,51,1,4,4,Reducing stress and adequate sleep
+540,Coagulation and hemorrhagic disorders,62,0,4,4,wearing a face shield.using eye protection.
+541,Other gastrointestinal disorders,155,0,2,4,Eat fruits and vegetables.
+542,Other injuries and conditions due to external causes,244,1,4,4,"Safe injection practices (i.e., aseptic technique for parenteral medications)."
+543,Diverticulosis and diverticulitis,146,0,3,4,A high-fiber diet decreases the risk of diverticulitis
+544,Urinary tract infections,159,1,4,4,"Drinking lots of fluid, especially water."
+545,Deficiency and other anemia,59,1,2,4,"ensuring balanced and adequate diet rich in iron, vitamin B12 and folate."
+546,Other fractures,231,0,3,4,Apply ice packs to limit swelling and help relieve pain.
+547,Hypertension with complications and secondary hypertension,99,1,2,4,Keep Yourself at a Healthy Weight.Get Enough Sleep.
+548,Other female genital disorders,175,1,4,4,"Maintain a healthy lifestyle. Proper diet, healthy body weight, exercise and sufficient sleep "
+549,Viral infection,7,1,3,4,Washing your hands with soap and water
+550,Nutritional deficiencies,52,1,4,4,"ensuring balanced and adequate diet rich in iron, vitamin B12 and folate."
+551,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,0,3,4, Promote exercise and physical activity. 
+552,Gastrointestinal hemorrhage,153,1,2,4,close affected blood vessels with a band or clip.
+553,Intracranial injury,233,0,3,4,Wear your seat belt.Wear a helmet. 
+554,Fluid and electrolyte disorders,55,0,3,4,drink plenty of water during physical activity
+555,Peripheral and visceral atherosclerosis,114,1,2,4,Control high blood pressure and manage high blood cholesterol and diabetes.
+556,Aortic; peripheral; and visceral artery aneurysms,115,1,3,4,"Push, pull, bear down or lift anything heavier than 30 pounds (or 10 pounds for patients recovering from surgery)."
+557,Gastroduodenal ulcer (except hemorrhage),139,1,3,4,Avoid foods that irritate your stomach. 
+558,Other endocrine disorders,51,0,2,4,Regular physical exercising
+559,Gastritis and duodenitis,140,0,4,4,"Avoiding fatty, fried, spicy or acidic foods."
+560,Chronic obstructive pulmonary disease and bronchiectasis,127,1,3,4,"Eat right and exercise. ...
+Get rest.Eat right and exercise"
+561,Pancreatic disorders (not diabetes),152,0,3,4,Choose a low-fat diet.
+562,urinary tract infections,159,0,4,4,"Drinking lots of fluid, especially water."
+563,Acute myocardial infarction,100,0,3,4,"Stop exercising immediately if you experience chest pain, fatigue, or labored breathing."
+564,Pancreatic disorders (not diabetes),152,1,2,4,Drink more fluids.
+565,Gastrointestinal hemorrhage,153,0,3,4,"treat the bleeding site and surrounding tissue with a heat probe, an electric current."
+566,Blindness and vision defects,89,1,4,4,"Eat a balanced diet that is rich in citrus fruits, green leafy vegetables, eggs, nuts, omega-3 fatty acids."
+567,Fracture of neck of femur (hip),226,1,3,4,DO NOT bend your hip more than 90 degrees.
+568,Acute and chronic tonsillitis,124,0,3,4,"Wash your hands often, especially before touching your nose or mouth."
+569,Chronic ulcer of skin,199,1,2,4,Keep skin clean and dry. Wash the skin with a gentle cleanser and pat dry
+570,Other connective tissue disease,211,1,3,4,Protection from cold temperatures
+571,Other connective tissue disease,211,0,2,4,Regular physical activity four or five times per week improves muscle strength.
+572,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),90,1,4,4,covering the mouth and nose when coughing or sneezing reduces the spread of TB bacteria.
+573,Inflammatory conditions of male genital organs,165,0,2,4,Cool compress.Bath salts
+574,Peritonitis and intestinal abscess,148,1,3,4,"Thoroughly wash your hands, including the areas between your fingers and under your fingernails"
+575,Skin and subcutaneous tissue infections,197,0,4,4,Wash your hands often and properly
+576,Pathological fracture,207,1,3,4,follow a diet rich in calcium and vitamin D and get plenty of exercise.
+577,Congestive heart failure; nonhypertensive,108,0,2,4,"Avoid cured and processed meats, which are high in sodium"
+578,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,0,2,4,Wear a mask when within 3 feet of the patient. 
+579,Intestinal obstruction without hernia,145,1,3,4,Eat in a relaxed setting and eat slowly
+580,Diseases of white blood cells,63,1,3,4,Always wear shoes to prevent cuts on your feet.
+581,Residual codes; unclassified,259,1,4,4,
+582,Coagulation and hemorrhagic disorders,62,0,3,4,wearing a mask.
+583,Pleurisy; pneumothorax; pulmonary collapse,130,0,1,4,inserting a needle or chest tube between the ribs to remove the excess air. 
+584,Intestinal obstruction without hernia,145,1,2,4,Drink 2000 to 2500 mL (8 to 10 cups) of fluids every day.
+585,Asthma,128,1,3,4,Get vaccinated for influenza and pneumonia
+586,Biliary tract disease,149,1,4,4, Patients are treated with medications to increase the flow of bile from the liver and antibiotics are used to treat infection.
+587,Chronic obstructive pulmonary disease and bronchiectasis,127,0,4,4,Eat right and exercise
+588,Poisoning by other medications and drugs,242,0,4,4, Never mix chemicals.
+589,Other circulatory disease,117,1,4,4,"Eat plenty of fresh fruit, vegetables, and whole grains."
+590,Cancer of bronchus; lung,19,0,3,4,Eat a diet full of fruits and vegetables
+591,Peripheral and visceral atherosclerosis,114,0,2,4,Control high blood pressure and manage high blood cholesterol and diabetes
+592,Other endocrine disorders,51,0,4,4,Regular physical exercising
+593,Hemorrhoids,120,1,2,4, avoid straining during a bowel movement. 
+594,Endometriosis,169,1,2,4,Lowering estrogen in your body may help reduce your risk of endometriosis.
+595,Acute posthemorrhagic anemia,60,0,4,4,Following a healthy diet.
+596,Other bone disease and musculoskeletal deformities,212,1,2,4,"Eat foods that support bone health. Get enough calcium, vitamin D, and protein each day."
+597,Conduction disorders,105,1,3,4,"existing heart disease, such as heart attack, infection of the heart, high blood pressure, or blood clots"
+598,Paralysis,82,1,2,4,"Physical, occupational and speech therapy can accommodate paralysis and provide exercises."
+599,Intracranial injury,233,1,3,4,Don't drive under the influence of drugs or alcohol.
+600,Cancer of kidney and renal pelvis,33,0,3,4,"Try to eat less protein such as meat, fish, eggs, milk and products or beans."
+601,Phlebitis; thrombophlebitis and thromboembolism,118,1,4,4,To help prevent a blood clot: Take a walk.
+602,Noninfectious gastroenteritis,154,1,4,4,wearing gloves and a plastic apron or impervious gown when having contact with the patient or the patient's environment
+603,Personality disorders,658,1,1,4,Therapy is the cornerstone of treatment for most personality disorders.
+604,Other diseases of kidney and ureters,161,0,4,4,Lose weight if you are overweight.
+605,Poisoning by psychotropic agents,241,1,4,4,
+606,Asthma,128,1,2,4,Pay attention to increasing quick-relief inhaler use.
+607,Acute myocardial infarction,100,1,2,4,"doing exercise every day, and loosing body weight."
+608,Epilepsy; convulsions,83,0,1,4," Put in carpets, cover sharp corners, and avoid glass tables and shower screens. "
+609,Fever of unknown origin,246,0,4,4,Rest and drink plenty of fluids.
+610,Pulmonary heart disease,103,1,2,4,"quitting smoking, cutting down on salt and eating a healthy diet. "
+611,Aortic and peripheral arterial embolism or thrombosis,116,1,3,4,"eat a healthy, balanced diet."
+612,Epilepsy; convulsions,83,1,4,4," Put in carpets, cover sharp corners, and avoid glass tables and shower screens."
+613,Epilepsy; convulsions,83,1,3,4," Put in carpets, cover sharp corners, and avoid glass tables and shower screens."
+614,Pancreatic disorders (not diabetes),152,0,2,4,Choose a low-fat diet.Drink more fluids.
+615,Deficiency and other anemia,59,1,4,4,"ensuring balanced and adequate diet rich in iron, vitamin B12 and folate. "
+616,Diabetes mellitus with complications,50,1,2,4,Take care of your teeth.Keep your blood pressure and cholesterol under control.
+617,Nephritis; nephrosis; renal sclerosis,156,0,2,4,"Eat a healthy, unprocessed food."
+618,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,0,2,4,avoiding the reuse of face masks.
+619,Multiple sclerosis,80,1,1,4,"Getting regular exercise: Multiple sclerosis can cause muscle weakness, loss of balance and difficulty walking."
+620,Other bone disease and musculoskeletal deformities,212,0,4,4,Pay attention to vitamin D.
+621,Immunity disorders,57,1,3,4,Take care of your teeth. Brush your teeth at least twice a day.
+622,Gastroduodenal ulcer (except hemorrhage),139,1,2,4,Avoid eating late night snacks.
+623,Cancer of esophagus,12,0,3,4,"Watch your diet, body weight, and physical activity."
+624,Aortic; peripheral; and visceral artery aneurysms,115,1,4,4,"Eat a healthy diet. Focus on eating a variety of fruits and vegetables, whole grains, poultry, fish, and low-fat dairy products. "
+625,Fracture of lower limb,230,1,3,4,Apply ice packs to limit swelling and help relieve pain.
+626,Cancer of brain and nervous system,35,0,3,4,avoiding environmental hazards such as smoking and excessive radiation exposure.
+627,Gastrointestinal hemorrhage,153,0,2,4,Limit your use of nonsteroidal anti-inflammatory drugs.
+628,Fluid and electrolyte disorders,55,0,4,4,drink plenty of water during physical activity.
+629,Urinary tract infections,159,0,3,4,"Drink plenty of liquids, especially water. Drinking water helps dilute the urine. "
+630,Cancer of bronchus; lung,19,1,3,4,Eat a diet full of fruits and vegetables.
+631,Diabetes mellitus with complications,50,0,2,4,Take care of your teeth.
+632,Other circulatory disease,117,0,3,4,Eat a heart-healthy diet.
+633,Noninfectious gastroenteritis,154,0,3,4,Handwashing with soap.
+634,Anal and rectal conditions,147,0,4,4,Keep the anal area clean by washing with water every day.
+635,Fracture of lower limb,230,1,4,4,Apply ice packs to limit swelling and help relieve pain.
+636,Other lower respiratory disease,133,1,3,4,Get Regular Check-ups.
+637,Other diseases of kidney and ureters,161,1,4,4,"Keep your blood pressure below 140/90, or ask your doctor what the best blood pressure target is for you."
+638,Rheumatoid arthritis and related disease,202,1,3,4,Eat an anti-inflammatory diet.
+639,Anal and rectal conditions,147,1,4,4,Keep the anal area clean by washing with water every day.
+640,Cardiac and circulatory congenital anomalies,213,0,1,4,"Reducing obesity, providing better control of diabetes."
+641,Pulmonary heart disease,103,0,3,4,maintaining a healthy weight range.
+642,Asthma,128,0,3,4,Pay attention to increasing quick-relief inhaler use.
+643,Other bone disease and musculoskeletal deformities,212,1,4,4,Pay attention to vitamin D. 
+644,Other diseases of kidney and ureters,161,1,2,4,Lose weight if you are overweight.
+645,Gastritis and duodenitis,140,1,4,4,Eating a gluten-free diet‌.
+646,Noninfectious gastroenteritis,154,1,3,4,Handwashing with soap has been shown to reduce the risk of gastroenteritis by up to 47%. 
+647,Diseases of white blood cells,63,1,2,4,"Wash your hands frequently, especially before eating and after using the bathroom. "
+648,Anxiety disorders,651,1,2,4,"Exercise regularly and eat a healthy, balanced diet."
+649,Cardiac dysrhythmias,106,0,4,4,Eat heart-healthy foods.
+650,Acute and unspecified renal failure,157,1,2,4,Lose weight if you are overweight.
+651,Other disorders of stomach and duodenum,141,1,2,4,Exercise more
+652,Asthma,128,1,4,4,eat more fatty fish and poultry than red meat.
+653,Abdominal pain,251,1,1,4,Drink plenty of clear fluids such as water.
+654,Fracture of upper limb,229,1,4,4,Apply ice packs to limit swelling and help relieve pain.
+655,Anxiety disorders,651,0,2,4,"Exercise regularly and eat a healthy, balanced diet."
+656,Abdominal hernia,143,1,3,4,Eat high-fiber foods and drink plenty of water.
+657,Coronary atherosclerosis and other heart disease,101,1,3,4,"eating a healthier (lower sodium, lower fat) diet."
+658,Mood disorders,657,0,1,4, Exercise regularly.
+659,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,0,3,4,"wearing personal protective equipment (PPE), such as face masks."
+660,Skull and face fractures,228,1,4,4,follow a diet rich in calcium and vitamin D.
+661,Regional enteritis and ulcerative colitis,144,0,2,4,"Eating more frequent, smaller meals."
+662,Suicide and intentional self-inflicted injury,662,0,3,4,
+663,Sprains and strains,232,0,1,4, Apply an icepack (cold compress) wrapped in a wet cloth to the injury for 15 minutes every 2 hours for 24 hours.
+664,Other skin disorders,200,0,2,4,Wash your hands often and properly.
+665,Asthma,128,0,4,4,Pay attention to increasing quick-relief inhaler use.
+666,Other connective tissue disease,211,1,0,4,Protecting hands from cold.Reducing stress.
+667,Pleurisy; pneumothorax; pulmonary collapse,130,0,0,4,Get plenty of rest and sleep.
+668,Benign neoplasm of uterus,46,1,3,4,Keeping a healthy weight and being physically active.
+669,Bacterial infection; unspecified site,3,0,4,4,Wash your hands with soap and water throughout the day.
+670,Cancer of bone and connective tissue,21,0,3,4,Vitamin C has an essential role in connective tissue healing.
+671,Other liver diseases,151,0,1,4, Eating a healthy diet.Exercising regularly.
+672,Other upper respiratory infections,126,1,2,4,"Wash hands, especially before eating or preparing food."
+673,Occlusion or stenosis of precerebral arteries,110,1,2,4,Maintain a healthy weight.
+674,Nutritional deficiencies,52,1,1,4,"Eating simple, wholesome food such as groundnut, soybean, pulses, etc. "
+675,Other endocrine disorders,51,1,3,4,Regular physical exercising.
+676,Peritonitis and intestinal abscess,148,1,2,4,"Thoroughly wash your hands, including the areas between your fingers and under your fingernails, before touching the catheter."
+677,Acute and chronic tonsillitis,124,1,1,4,"Wash your hands often, especially before touching your nose or mouth."
+678,Superficial injury; contusion,239,1,4,4,Apply ice immediately after the injury to reduce blood flow around the area.
+679,Anal and rectal conditions,147,0,3,4,Keep the anal area clean by washing with water every day.
+680,Other inflammatory condition of skin,198,1,4,4,Wash your hands often and properly.
+681,Administrative/social admission,255,0,2,4,Keeping hands away from face.
+682,Open wounds of extremities,236,0,1,4,Wash the wound right away with soap and water.
+683,Heart valve disorders,96,1,1,4,Eat a heart-healthy diet.Keep your teeth and gums healthy.
+684,Varicose veins of lower extremity,119,1,3,4,"Eating a high-fiber, low-salt diet."
+685,Leukemias,39,0,3,4,"Eat only well-cooked foods (no raw fruits or vegetables or undercooked poultry, meat, or fish)."
+686,Leukemias,39,1,4,4,"Eat only well-cooked foods (no raw fruits or vegetables or undercooked poultry, meat, or fish)."
+687,Cancer; other and unspecified primary,41,0,3,4,Eat a healthy diet.
+688,Cancer; other respiratory and intrathoracic,20,0,3,4,Wash your hands after visiting a public place or touching items used by others. 
+689,Viral infection,7,1,1,4,Cover your mouth when you cough or sneeze.
+690,Cancer of breast,24,1,4,4,"Maintain a healthy weight. If your weight is healthy, work to maintain that weight. "
+691,Cancer of liver and intrahepatic bile duct,16,1,4,4,Maintain a healthy weight.
+692,Congestive heart failure; nonhypertensive,108,1,1,4,Regular physical activity and maintaining a health body weight.
+693,Chronic obstructive pulmonary disease and bronchiectasis,127,0,0,4,Eat right and exercise.
+694,Deficiency and other anemia,59,0,2,4,Following a healthy diet.
+695,Developmental disorders,654,0,4,4,Medication and medical support. Medication may help to manage symptoms.
+696,Fetal distress and abnormal forces of labor,190,1,0,4,Giving you oxygen through a mask.
+697,Joint disorders and dislocations; trauma-related,225,1,2,4,Exercise regularly to maintain strength and flexibility in joints and muscles.
+698,Cardiac and circulatory congenital anomalies,213,0,4,4,Maintain a healthy weight.Get good quality sleep.
+699,Digestive congenital anomalies,214,0,4,4,"
+Eat and drink slowly."
+700,Gastroduodenal ulcer (except hemorrhage),139,0,1,4,Avoid eating late night snacks.
+701,Fracture of lower limb,230,0,4,4,Apply ice packs to limit swelling and help relieve pain.
+702,Malignant neoplasm without specification of site,43,0,3,4,Eat a healthy diet.
+703,Cancer of other urinary organs,34,0,4,4,Eat lots of fruits and vegetables.
+704,Cancer of other urinary organs,34,1,3,4,Drink plenty of liquids.
+705,Chronic ulcer of skin,199,1,3,4,Keep skin clean and dry. Wash the skin with a gentle cleanser and pat dry.
+706,Glaucoma,88,1,4,4,Eat a healthy diet. 
+707,Coagulation and hemorrhagic disorders,62,1,2,4,wearing a mask.
+708,Cancer of ovary,27,1,4,4,Maintaining good health by eating well.
+709,Cancer of stomach,13,0,3,4,eating fruits and vegetables that are high in vitamin C and beta carotene.
+710,Aortic; peripheral; and visceral artery aneurysms,115,0,4,3,"Eat a healthy diet. Focus on eating a variety of fruits and vegetables, whole grains, poultry, fish, and low-fat dairy products. "
+711,Fluid and electrolyte disorders,55,1,2,3,drink plenty of water during physical activity. 
+712,Other connective tissue disease,211,1,4,3,Protecting hands from cold.
+713,Regional enteritis and ulcerative colitis,144,0,1,3,"Eating more frequent, smaller meals."
+714,Appendicitis and other appendiceal conditions,142,0,3,3, Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables 
+715,Inflammatory diseases of female pelvic organs,168,1,2,3,Take rest.
+716,Acute posthemorrhagic anemia,60,1,4,3,"Eat healthy foods rich in iron together with foods rich in vitamin C. Nuts, meat, dark leafy green vegetables."
+717,Fracture of lower limb,230,0,3,3,Apply ice packs to limit swelling and help relieve pain.
+718,Urinary tract infections,159,1,3,3,"Drink plenty of liquids, especially water. "
+719,Gastritis and duodenitis,140,0,3,3,Drink Green tea with manuka honey.
+720,Thyroid disorders,48,1,3,3,Reduce Stress.
+721,Abdominal hernia,143,0,3,3,Eat high-fiber foods and drink plenty of water. 
+722,Fluid and electrolyte disorders,55,1,3,3,drink plenty of water during physical activity. 
+723,Cardiac dysrhythmias,106,1,3,3,Exercise regularly. 
+724,Adjustment disorders,650,0,3,3,"Live a healthy lifestyle that includes good sleep, a healthy diet and regular physical activity."
+725,Urinary tract infections,159,1,2,3,"Drink plenty of liquids, especially water and Try cranberry juice."
+726,Regional enteritis and ulcerative colitis,144,1,2,3,"Eating more frequent, smaller meals."
+727,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,1,1,3,Practice a healthy lifestyle.
+728,Conditions associated with dizziness or vertigo,93,1,4,3,drink enough water throughout the day.
+729,Poisoning by psychotropic agents,241,0,2,3, Do not use food containers (such as cups or bottles) to store household cleaners and other chemicals or products.
+730,Regional enteritis and ulcerative colitis,144,0,3,3,"Eating more frequent, smaller meals.Not drinking carbonated drinks."
+731,Chronic ulcer of skin,199,1,4,3,Keep skin clean and dry. Wash the skin with a gentle cleanser and pat dry.
+732,Other bone disease and musculoskeletal deformities,212,1,3,3,"Diet, vitamin D and weight-bearing exercise "
+733,Acute myocardial infarction,100,0,2,3,"Drink plenty of water before, during, and after exercise. "
+734,Adjustment disorders,650,1,2,3,Develope healthy coping skills.
+735,Phlebitis; thrombophlebitis and thromboembolism,118,0,3,3,Drink plenty of water or other nonalcoholic fluids to avoid dehydration.
+736,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),77,0,3,3,"wear gloves, a face mask."
+737,Allergic reactions,253,1,4,3,"Cover the area with a bandage. If there's swelling, apply a cold compress to the area."
+738,Other connective tissue disease,211,0,1,3,Protecting hands from cold.
+739,Rheumatoid arthritis and related disease,202,1,4,3,Decrease sugar and salt intake.
+740,Viral infection,7,0,3,3,Cover your mouth when you cough or sneeze. 
+741,Transient cerebral ischemia,112,1,4,3,Exercise regularly. Eat plenty of fruits and vegetables. 
+742,Asthma,128,0,2,3,Pay attention to increasing quick-relief inhaler use.
+743,Transient cerebral ischemia,112,0,3,3,Exercise regularly. Eat plenty of fruits and vegetables. 
+744,Other acquired deformities,209,0,3,3,Regular yogic exercises.
+745,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),97,1,4,3,Promote exercise and physical activity. 
+746,Diverticulosis and diverticulitis,146,1,2,3,Drink plenty of fluids.
+747,Calculus of urinary tract,160,1,1,3,drink plenty of water each day to avoid becoming dehydrated. 
+748,Other perinatal conditions,224,0,0,3,Eat healthy foods and maintain a healthy weight.
+749,Hyperplasia of prostate,164,0,4,3,Follow a healthy diet.
+750,Cancer of breast,24,1,3,3,Keep a healthy weight.
+751,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,1,2,3," cover their nose or mouth when coughing, promptly dispose used tissues."
+752,Other diseases of kidney and ureters,161,0,2,3,Make physical activity part of your routine.Get enough sleep.
+753,Allergic reactions,253,0,3,3,Wear a medical alert bracelet 
+754,Intracranial injury,233,1,2,3,Get enough sleep and take rest breaks throughout the day.
+755,Cancer of esophagus,12,0,4,3,"Eat foods high in calories and protein. These include whole, full-fat dairy products, nut products, and meats."
+756,Other fractures,231,1,4,3,Apply ice packs to limit swelling and help relieve pain.
+757,Other hereditary and degenerative nervous system conditions,81,0,4,3,Exercise regularly.Get plenty of rest.
+758,Abdominal pain,251,0,2,3,Drink plenty of water.Take a bath from the warm water
+759,Intestinal infection,135,1,2,3,"washing hands and surfaces before, during, and after food preparation."
+760,Neoplasms of unspecified nature or uncertain behavior,44,0,3,3,Wash your hands after visiting a public place or touching items used by others.
+761,Pancreatic disorders (not diabetes),152,1,1,3,Choose a low-fat diet.Drink more fluids.
+762,Conduction disorders,105,1,4,3,managing stress and exercising regularly.
+763,Other gastrointestinal disorders,155,1,1,3,Resting and drinking plenty of fluids.
+764,Pleurisy; pneumothorax; pulmonary collapse,130,1,1,3,Regular Walking.
+765,Cardiac and circulatory congenital anomalies,213,0,2,3,"Reducing obesity, providing better control of diabetes."
+766,Viral infection,7,0,4,3,Cover your mouth when you cough or sneeze. 
+767,Nonmalignant breast conditions,167,1,2,3,Be physically active.Keep a healthy weight
+768,Chronic obstructive pulmonary disease and bronchiectasis,127,1,2,3,Eat right and exercise.Get rest. 
+769,Hemorrhoids,120,0,4,3,eat more foods that are high in fiber.
+770,Other and ill-defined cerebrovascular disease,111,1,4,3,Choose healthy foods and drinks.Keep a healthy weight.
+771,Other liver diseases,151,0,2,3,Eat Fruits and vegetables.
+772,Conduction disorders,105,0,4,3,exercising regularly.
+773,Poisoning by other medications and drugs,242,0,2,3,Take rest.
+774,Phlebitis; thrombophlebitis and thromboembolism,118,1,3,3,Drink plenty of water or other nonalcoholic fluids to avoid dehydration.
+775,Spondylosis; intervertebral disc disorders; other back problems,205,1,4,3,Exercise regularly. Regular exercise is key to any healthy lifestyle plan.
+776,Biliary tract disease,149,0,3,3,Increase the amount of fiber in your diet.Decrease the amount of sugar and saturated fats in your diet.
+777,Septicemia (except in labor),2,0,0,3,"Get vaccination against the flu, pneumonia, and any other infections that could lead to sepsis."
+778,Respiratory failure; insufficiency; arrest (adult),131,0,1,3,maintain a healthy bodyweight.
+779,Other congenital anomalies,217,0,3,3,Choose a healthy lifestyle. Keep diabetes under control.
+780,Cancer of brain and nervous system,35,0,4,3,Get plenty of rest.Eat a balanced diet.
+781,Thyroid disorders,48,1,2,3,"Drink a lot of water.Eat selenium, tyrosine, and antioxidants rich food."
+782,Joint disorders and dislocations; trauma-related,225,1,4,3,Maintaining a healthy weight to avoid increased pressure on the bones.
+783,Non-Hodgkin`s lymphoma,38,1,3,3,"Low-fat dairy products such as milk, yogurt, and cheese or dairy substitutes."
+784,Crushing injury or internal injury,234,1,3,3,Start your exercise routine slowly.
+785,Fracture of lower limb,230,1,2,3,Apply ice packs to limit swelling and help relieve pain.
+786,"Attention-deficit, conduct, and disruptive behavior disorders",652,0,0,3,Develop a Healthy Relationship.
+787,Crushing injury or internal injury,234,0,3,3,Start your exercise routine slowly.
+788,Other and ill-defined cerebrovascular disease,111,0,3,3,"Eating foods low in saturated fats, trans fat, and cholesterol and high in fiber can help prevent high cholesterol. "
+789,Other injuries and conditions due to external causes,244,0,4,3,Wash your hands well.
+790,Open wounds of head; neck; and trunk,235,1,4,3,Get plenty of sleep (at least 8–10 hours in a 24-hour period).
+791,Leukemias,39,0,4,3,"Eat only well-cooked foods (no raw fruits or vegetables or undercooked poultry, meat, or fish)."
+792,Other fractures,231,0,2,3,Apply ice packs to limit swelling and help relieve pain.
+793,Lung disease due to external agents,132,1,1,3,Regular Exercise.
+794,Acute posthemorrhagic anemia,60,0,3,3,Following a healthy diet.
+795,Malaise and fatigue,252,1,3,3,balancing rest and activity.
+796,Miscellaneous disorders,670,1,0,3,Wash Hands.Handle & Prepare Food Safely
+797,Other connective tissue disease,211,0,3,3,Regular physical activity.
+798,Other ear and sense organ disorders,94,0,2,3,Use hearing protection for loud music.Keep the sound as low as possible on the TV and radio
+799,E Codes: Unclassified,917,1,4,3,
+800,Gastritis and duodenitis,140,1,3,3,Choose water and other clear liquids until you feel better.
+801,Intestinal infection,135,0,3,3,"washing hands and surfaces before, during, and after food preparation"
+802,Appendicitis and other appendiceal conditions,142,0,1,3,Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+803,Viral infection,7,0,1,3,Washing your hands with soap and water.
+804,Cancer of prostate,29,0,3,3,have a healthy diet and pursue diverse physical activities.
+805,Pleurisy; pneumothorax; pulmonary collapse,130,1,2,3,Get plenty of rest and sleep.
+806,Appendicitis and other appendiceal conditions,142,1,3,3, Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables 
+807,Poisoning by other medications and drugs,242,1,4,3,Take rest.
+808,Other circulatory disease,117,1,3,3,"Eat plenty of fresh fruit, vegetables, and whole grains. "
+809,Pulmonary heart disease,103,1,1,3,Regular Exercise.
+810,Esophageal disorders,138,1,3,3,"Watch your diet, body weight, and physical activity."
+811,Residual codes; unclassified,259,0,3,3,
+812,Urinary tract infections,159,0,2,3,"Drinking lots of fluid, especially water."
+813,Sprains and strains,232,0,3,3, Apply an icepack (cold compress) wrapped in a wet cloth to the injury for 15 minutes every 2 hours for 24 hours.
+814,Fever of unknown origin,246,1,3,3,"Wash your hands often, especially before eating."
+815,Miscellaneous disorders,670,0,3,3,Wash Hands properly.
+816,Other connective tissue disease,211,1,1,3,Protecting hands from cold.
+817,Anal and rectal conditions,147,0,2,3,Keep the anal area clean by washing with water every day.
+818,"Impulse control disorders, NEC",656,0,2,3,Stopping all regular feedings.Taking frequent blood tests.
+819,Poisoning by psychotropic agents,241,1,3,3,
+820,Phlebitis; thrombophlebitis and thromboembolism,118,0,2,3,Drink plenty of water or other nonalcoholic fluids to avoid dehydration.
+821,Other acquired deformities,209,0,2,3,Regular and appropriate exercises.
+822,Benign neoplasm of uterus,46,1,2,3, maintaining a healthy weight and eating fruits and vegetables.
+823,Pathological fracture,207,0,3,3,follow a diet rich in calcium and vitamin D and get plenty of exercise.
+824,Residual codes; unclassified,259,1,3,3,
+825,Appendicitis and other appendiceal conditions,142,0,0,3,Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+826,Diverticulosis and diverticulitis,146,0,2,3,"A high-fiber diet decreases the risk of diverticulitis.Fiber-rich foods, such as fresh fruits and vegetables and whole grains, "
+827,Cardiac dysrhythmias,106,0,3,3,Eat heart-healthy foods.Exercise regularly.
+828,Other and unspecified benign neoplasm,47,1,2,3,
+829,Coagulation and hemorrhagic disorders,62,1,4,3,wearing a mask.using eye protection.
+830,Other acquired deformities,209,1,2,3,Regular and appropriate exercises.
+831,Other female genital disorders,175,1,3,3,
+832,Crushing injury or internal injury,234,0,2,3,Start your exercise routine slowly.
+833,Ovarian cyst,172,1,3,3,Eat white bread and potatoes.
+834,Other upper respiratory infections,126,0,3,3,"Wash hands, especially before eating or preparing food. "
+835,Anal and rectal conditions,147,1,3,3,Keep the anal area clean by washing with water every day.
+836,Pulmonary heart disease,103,0,1,3,eating a healthy diet.
+837,Diabetes mellitus with complications,50,1,1,3,Keep your blood pressure and cholesterol under control.Take care of your teeth. 
+838,Skin and subcutaneous tissue infections,197,0,1,3,Wash your hands often and properly.
+839,"Impulse control disorders, NEC",656,0,1,3,
+840,Other gastrointestinal disorders,155,1,2,3,Exercise and Chew your food thoroughly – it can ease the digestive process.
+841,Noninfectious gastroenteritis,154,0,1,3,"Use of personal protective equipment (e.g., gloves, masks, eyewear)."
+842,Other bone disease and musculoskeletal deformities,212,0,1,3,nclude plenty of calcium in your diet.Pay attention to vitamin D
+843,Aortic; peripheral; and visceral artery aneurysms,115,1,2,3,"Eat a healthy diet. Focus on eating a variety of fruits and vegetables, whole grains, poultry, fish, and low-fat dairy products."
+844,Viral infection,7,1,4,3,Cover your mouth when you cough or sneeze.
+845,Biliary tract disease,149,1,2,3,"You can choose from all dark green leafy vegetables, as well as beetroot, artichokes and pickles."
+846,Skin and subcutaneous tissue infections,197,0,2,3,Wash your hands often and properly.
+847,Fetal distress and abnormal forces of labor,190,1,2,3,Giving you oxygen through a mask.
+848,Other injuries and conditions due to external causes,244,1,2,3,Regular Exercise.
+849,Syncope,245,1,4,3,"Eating a higher salt diet, to help keep up blood volume."
+850,Other non-traumatic joint disorders,204,1,3,3,Stay at a healthy weight.Exercise.
+851,Diseases of white blood cells,63,1,4,3,"Wash your hands frequently, especially before eating and after using the bathroom. "
+852,Other non-traumatic joint disorders,204,0,4,3,Stay at a healthy weight.Exercise.
+853,Abdominal pain,251,1,3,3,Drink plenty of clear fluids such as water.
+854,Other lower respiratory disease,133,0,3,3,Regular Exercise.
+855,Appendicitis and other appendiceal conditions,142,0,2,3, Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+856,Other injuries and conditions due to external causes,244,0,3,3,Cool down—slowly decrease the intensity of your activity and then stretch again.
+857,Other and ill-defined cerebrovascular disease,111,0,4,3,Choose healthy foods and drinks. 
+858,Intestinal infection,135,1,1,3,"washing hands and surfaces before, during, and after food preparation."
+859,Cardiac and circulatory congenital anomalies,213,0,3,3,"Reducing obesity, providing better control of diabetes."
+860,Residual codes; unclassified,259,0,4,3,
+861,Appendicitis and other appendiceal conditions,142,1,1,3,Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+862,Other non-traumatic joint disorders,204,1,4,3,Stay at a healthy weight.Exercise Regularly.
+863,Miscellaneous disorders,670,1,1,3,Don't Share Personal Items.Wash Hands Often.
+864,Spondylosis; intervertebral disc disorders; other back problems,205,0,4,3,Exercise regularly. Regular exercise is key to any healthy lifestyle plan.
+865,Other acquired deformities,209,1,3,3,
+866,Hypertension complicating pregnancy; childbirth and the puerperium,183,1,1,3,Eat a healthy diet. Stay active.
+867,Fetal distress and abnormal forces of labor,190,1,1,3,Giving you oxygen through a mask.Giving you medicine to slow or stop contractions
+868,Fever of unknown origin,246,0,0,3,Frequently washing your hands.Avoid direct touching your nose and mouth.
+869,Sprains and strains,232,1,4,3,Avoid exercising or playing sports when tired or in pain.Maintain a healthy weight and well-balanced diet to keep muscles strong.
+870,Fracture of lower limb,230,0,0,3,Apply ice packs to limit swelling and help relieve pain.
+871,Other hereditary and degenerative nervous system conditions,81,1,2,3,Reach and Keep A Health Weight.Improve Your Diet.
+872,Gout and other crystal arthropathies,54,1,2,3,Eat a healthy diet. Exercise regularly and lose weight.
+873,Other hematologic conditions,64,1,3,3,Regular exercise & active lifestyle.Eat healthy meals.Maintain ideal body weight.
+874,Other skin disorders,200,1,0,1,"Wash your hands often and properly. Do not share items, such as towels, razors, bar soap, clothes."
+875,Diseases of mouth; excluding dental,137,1,1,3,Brush your teeth twice a day with fluoride toothpaste.Floss regularly.
+876,Cardiac and circulatory congenital anomalies,213,1,2,3,"Reducing obesity, providing better control of diabetes."
+877,Sprains and strains,232,0,4,3,Avoid exercising or playing sports when tired or in pain.Maintain a healthy weight and well-balanced diet to keep muscles strong.
+878,Spinal cord injury,227,0,3,3,Place heavy towels on both sides of the neck or hold the head and neck to prevent them from moving until emergency care arrives.
+879,Headache; including migraine,84,1,3,3,Apply hot or cold compresses to your head or neck.
+880,Polyhydramnios and other problems of amniotic cavity,191,1,0,3,Take rest.
+881,Chronic kidney disease,158,0,2,3,Healthy diet.Stop smoking.Exercise regularly. 
+882,Other fractures,231,1,1,3,Apply ice packs to limit swelling and help relieve pain.
+883,Headache; including migraine,84,0,1,3,Apply hot or cold compresses to your head or neck.
+884,Acute bronchitis,125,0,2,3,Avoid close contact with people who have the flu or another respiratory illness.Wash your hands often or use an alcohol-based hand sanitizer.
+885,Diseases of mouth; excluding dental,137,1,2,3,Brush your teeth twice a day with fluoride toothpaste.Floss regularly.
+886,Crushing injury or internal injury,234,1,1,3,Start your exercise routine slowly.
+887,Coagulation and hemorrhagic disorders,62,0,0,3,wearing a mask.
+888,Fever of unknown origin,246,1,1,3,Rest and drink plenty of fluids.
+889,Suicide and intentional self-inflicted injury,662,0,2,3,
+890,Fracture of neck of femur (hip),226,1,2,3,DO NOT bend your hip more than 90degrees.Do not reach forward towards your feet.
+891,Fever of unknown origin,246,0,3,3,Rest and drink plenty of fluids.
+892,Rheumatoid arthritis and related disease,202,0,4,3,"Control your blood sugar, 
+Exercise"
+893,Peritonitis and intestinal abscess,148,0,1,3,Be sure to clean between your fingers and under your fingernails.
+894,Melanomas of skin,22,1,2,3,Wear clothing that covers your arms and legs.Wear clothing that covers your arms and legs.
+895,Retinal detachments; defects; vascular occlusion; and retinopathy,87,1,4,3,"wearing safety goggles or other protective eye gear when doing risky activities, like playing sports"
+896,Complications of surgical procedures or medical care,238,0,1,3,"proper handwashing.
+maintaining strict surgical aseptic technique.
+pulmonary exercises"
+897,Viral infection,7,1,2,3,Don't share personal items.Cover coughs and sneezes.Avoid touching your face.
+898,Headache; including migraine,84,0,3,3,Apply hot or cold compresses to your head or neck.
+899,Fracture of lower limb,230,1,1,3,Apply ice packs to limit swelling and help relieve pain.
+900,Complications of surgical procedures or medical care,238,0,0,3,proper handwashing.leg exercises.
+901,Peripheral and visceral atherosclerosis,114,0,1,3,"Eat a healthy diet low in saturated and trans fats, cholesterol, sodium (salt) and sugar."
+902,Administrative/social admission,255,0,3,3,
+903,Anxiety disorders,651,1,4,3,"Exercise regularly and eat a healthy, balanced diet"
+904,Fracture of neck of femur (hip),226,0,2,3,DO NOT bend your hip more than 90degrees.Do not reach forward towards your feet.
+905,Viral infection,7,0,2,3,Cover your mouth when you cough or sneeze.Wash and dry your hands regularly and well.
+906,Other skin disorders,200,0,4,3,Wash your hands often and properly.Avoid skin-to-skin contact with anyone who has a skin infection.
+907,Acute bronchitis,125,1,3,3,"Wash your hands often or use an alcohol-based hand sanitizer.Avoid touching your eyes, nose and mouth."
+908,Cardiac arrest and ventricular fibrillation,107,0,2,3,"You should eat a heart-healthy diet.You should stay active, such as by walking 30 minutes per day."
+909,Other injuries and conditions due to external causes,244,0,2,3,Cool down—slowly decrease the intensity of your activity and then stretch again.
+910,Gastrointestinal hemorrhage,153,1,0,3,"Eat red meat, shellfish, poultry, and eggs."
+911,Other nervous system disorders,95,0,1,3,Use yoga and stretching to strengthen the nervous system.Protect the nerves with B vitamins. 
+912,E Codes: Unclassified,917,1,3,3,
+913,Secondary malignancies,42,1,2,3,Eat a healthy diet. Protect yourself from the sun.
+914,Other male genital disorders,166,0,2,3,
+915,Headache; including migraine,84,0,4,3,Apply hot or cold compresses to your head or neck. Sip a caffeinated drink.
+916,Noninfectious gastroenteritis,154,1,0,3,Handwashing with soap.
+917,Other connective tissue disease,211,1,2,3,Protecting hands from cold.Reducing stress.
+918,Other congenital anomalies,217,1,4,3,Choose a healthy lifestyle. Keep diabetes under control.
+919,Cancer of liver and intrahepatic bile duct,16,1,2,3,reducing your alcohol intake.
+920,Other bone disease and musculoskeletal deformities,212,1,1,3,"Diet, vitamin D and weight-bearing exercise."
+921,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),201,1,0,3,Wash and dry your hands regularly and well.Prepare food safely.
+922,Other and ill-defined heart disease,104,0,2,3," Eat plenty of fresh fruit, vegetables, and whole grains."
+923,Other and ill-defined cerebrovascular disease,111,1,1,3,Choose healthy foods and drinks. Choosing healthy meal and snack options can help you prevent stroke.
+924,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),90,0,2,3,"Provide tissue, surgical masks, hand-hygiene products, and waste containers in common areas, such as waiting rooms, so people with respiratory symptoms can contain coughing and sneezing."
+925,Osteoporosis,206,1,4,3,"eat calcium-rich foods.have a healthy and varied diet with plenty of fresh fruit, vegetables and whole grains."
+926,Open wounds of head; neck; and trunk,235,0,4,3,Get plenty of sleep (at least 8–10 hours in a 24-hour period).
+927,Biliary tract disease,149,0,1,3,"dark green leafy vegetables, as well as beetroot, artichokes and pickles. "
+928,Noninfectious gastroenteritis,154,0,0,3,wearing gloves and a plastic apron or impervious gown when having contact with the patient or the patient's environment.
+929,Non-Hodgkin`s lymphoma,38,1,4,3,Maintaining a healthy weight.
+930,Hepatitis,6,0,1,3,Good personal hygiene and proper sanitation.Always wash your hands with soap and water.
+931,Nervous system congenital anomalies,216,0,2,3,Fruits. Eat at least one fruit daily to help heal damaged nerves.
+932,Nervous system congenital anomalies,216,1,2,3,Fruits. Eat at least one fruit daily to help heal damaged nerves.
+933,Joint disorders and dislocations; trauma-related,225,1,3,3,Being cautious on stairs to help avoid falls. Staying physically active to keep the muscles.
+934,Neoplasms of unspecified nature or uncertain behavior,44,1,1,3,Eat a healthy diet.Protect yourself from the sun.
+935,Nausea and vomiting,250,1,3,3,Drink plenty of clear fluids or oral rehydration solution to replace lost fluids.
+936,Multiple sclerosis,80,0,3,3,"Getting regular exercise: Multiple sclerosis can cause muscle weakness, loss of balance and difficulty walking."
+937,Joint disorders and dislocations; trauma-related,225,0,4,3,Staying physically active to keep the muscles and tendons around the joints strong.
+938,Cancer of breast,24,1,2,3,Keep a healthy weight. Be physically active.
+939,Cancer of bladder,32,0,3,3,"Drinking tea and eating “cruciferous” vegetables like broccoli, cauliflower, cabbage, kale, or asparagus can keep things flowing."
+940,Cancer of brain and nervous system,35,0,2,3,Exercise regularly.Get plenty of rest.
+941,Malaise and fatigue,252,1,4,3,getting plenty of rest. exercising regularly.
+942,Malignant neoplasm without specification of site,43,0,2,3,Eat a healthy diet.Maintain a healthy weight and be physically active.
+943,Other diseases of bladder and urethra,162,0,3,3,"Drink plenty of liquids, especially water.Try cranberry juice."
+944,Osteoarthritis,203,1,1,3,regular exercise. losing weight if you're overweight.
+945,Hemorrhoids,120,1,3,3,eat more foods that are high in fiber.
+946,Appendicitis and other appendiceal conditions,142,0,4,3,Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+947,Other diseases of kidney and ureters,161,0,3,3,"Drink fluids, especially water."
+948,Cancer of prostate,29,0,2,3,Get Regular Exercise.Increase Your Vitamin D.
+949,Hemorrhage during pregnancy; abruptio placenta; placenta previa,182,1,2,3,"bed rest, limitation of activity, and/or avoiding sexual intercourse."
+950,Occlusion or stenosis of precerebral arteries,110,0,4,2,"Eat a healthy, balanced diet.Be more physically active."
+951,Cardiac dysrhythmias,106,1,2,2,Eat heart-healthy foods.Exercise regularly. 
+952,Adjustment disorders,650,1,1,2,Be Physically Active and Take Rest.
+953,Adjustment disorders,650,0,1,2,Be Physically Active and Take Rest.
+954,Cardiac dysrhythmias,106,0,2,2,Get moving: Aim for at least 30 to 60 minutes of activity daily.Get good quality sleep. 
+955,Osteoarthritis,203,1,4,2,Rest the joint. Use an ice pack to relieve pain.
+956,Esophageal disorders,138,1,2,2,"Watch your diet, body weight, and physical activity."
+957,Pancreatic disorders (not diabetes),152,0,1,2,Choose a low-fat diet.Drink more fluids.
+958,Transient cerebral ischemia,112,0,4,2,Eat plenty of fruits and vegetables.Exercise regularly. 
+959,Osteoarthritis,203,0,4,2,Rest the joint. Use an ice pack to relieve pain.
+960,Other and ill-defined heart disease,104,1,3,2,Having a healthy weight.Regular exercise will make your heart and blood circulatory system more efficient.
+961,Other and unspecified benign neoplasm,47,0,2,2,Maintain a healthy weight and be physically active.Eat a healthy diet.
+962,Gastritis and duodenitis,140,1,2,2,"Avoiding fatty, fried, spicy or acidic foods.Eat fruits (not citrus), vegetables, beans, whole-grain breads, and lean meats and fish."
+963,Malposition; malpresentation,187,1,2,2,Avoid Oxytocin in most malpresentations except. Occiput Posterior. Twin Vaginal Delivery.Choose a healthy lifestyle. Keep diabetes under control. 
+964,Occlusion or stenosis of precerebral arteries,110,1,4,2,"Eat a healthy, balanced diet.Be more physically active."
+965,Other non-traumatic joint disorders,204,0,3,2,regular exercise.losing weight if you're overweight. 
+966,Adjustment disorders,650,0,2,2,Be Physically Active and Take Rest.
+967,Noninfectious gastroenteritis,154,1,2,2,wearing gloves and a plastic apron or impervious gown when having contact with the patient or the patient's environment.Wash your hands.
+968,Calculus of urinary tract,160,0,3,2,drink plenty of water each day to avoid becoming dehydrated. 
+969,Fetopelvic disproportion; obstruction,188,1,1,2,Maintain or achieve a healthy weight.Exercise Regularly.Get Enough Sleep.
+970,Other bone disease and musculoskeletal deformities,212,1,0,2,"Get enough calcium and vitamin D and eat a well balanced diet.Eat foods that are good for bone health, such as fruits and vegetables."
+971,Cardiac and circulatory congenital anomalies,213,1,3,2,"Reducing obesity, providing better control of diabetes.Eat a healthy, balanced diet. "
+972,Osteoarthritis,203,1,2,2,Maintaining a healthy body weight. Regular Exercise.
+973,Urinary tract infections,159,1,1,2,"Drinking lots of fluid, especially water."
+974,Prolonged pregnancy,185,1,0,2,"Eat a diet high in fruits, vegetables, low-fat forms of protein, and fiber.Eat enough calories (about 300 more calories)"
+975,Hemorrhage during pregnancy; abruptio placenta; placenta previa,182,1,1,2,"not to have intercourse after 28 weeks of pregnancy.bed rest, limitation of activity."
+976,Osteoarthritis,203,1,3,2,Maintaining a healthy body weight. Regular Exercise.
+977,Nausea and vomiting,250,0,3,2,Drink plenty of clear fluids or oral rehydration solution to replace lost fluids — take small sips if you feel sick.
+978,Genitourinary symptoms and ill-defined conditions,163,1,3,2,"Drink plenty of liquids, especially water. Drinking water helps dilute the urine.Try cranberry juice."
+979,Other circulatory disease,117,0,2,2,"Try to limit saturated fats, foods high in sodium, and added sugars. Eat plenty of fresh fruit, vegetables, and whole grains."
+980,Biliary tract disease,149,1,1,2,"Eat dark green leafy vegetables, as well as beetroot, artichokes and pickles. "
+981,Skin and subcutaneous tissue infections,197,1,1,2,Wash your hands often and properly. 
+982,Noninfectious gastroenteritis,154,0,4,2,wearing gloves and a plastic apron or impervious gown when having contact with the patient or the patient's environment.
+983,Diabetes mellitus with complications,50,0,1,2,Take care of your teeth.Keep your blood pressure and cholesterol under control.
+984,Abdominal pain,251,1,2,2,"Wash Your Hands.Drink More Water, Less Soda."
+985,Coronary atherosclerosis and other heart disease,101,1,2,2,"Adequate exercise, dietary changes and limited salt intake."
+986,Other lower respiratory disease,133,0,2,2,washing their hands frequently.cleaning and disinfecting surfaces regularly.
+987,Malposition; malpresentation,187,1,1,2,Consider Terbutaline SC before Cesarean Section.
+988,Neoplasms of unspecified nature or uncertain behavior,44,1,3,2,Eat a healthy diet. Protect yourself from the sun.
+989,Retinal detachments; defects; vascular occlusion; and retinopathy,87,0,4,2,"wearing safety goggles or other protective eye gear when doing risky activities, like playing sports."
+990,Thyroid disorders,48,0,3,2,Stay away from sugar and caffeine.Eat fish and shellfish.
+991,Other diseases of veins and lymphatics,121,0,4,2,Exercise. Get moving.Follow a low-salt diet to prevent swelling caused from water retention.
+992,Cancer of kidney and renal pelvis,33,1,3,2,"Wash produce thoroughly. eat as well as oxalate rich foods like spinach, beans, berries, most nuts, rhubarb, wheat bran, colas, and green peppers."
+993,Acute posthemorrhagic anemia,60,1,2,2,Following a healthy diet.Getting regular exercise.
+994,Acute posthemorrhagic anemia,60,0,2,2,Getting regular exercise.Following a healthy diet.
+995,Cardiac dysrhythmias,106,0,1,2,Eat heart-healthy foods.Exercise regularly.
+996,Spondylosis; intervertebral disc disorders; other back problems,205,1,3,2,Eat an anti-inflammatory diet.Make sleep a priority. 
+997,Hypertension complicating pregnancy; childbirth and the puerperium,183,1,2,2,Eat healthy meals.Continue taking your prenatal vitamins every day.
+998,Appendicitis and other appendiceal conditions,142,1,0,2,Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+999,Immunity disorders,57,0,1,2,Eat a diet high in fruits and vegetables.Exercise regularly.
+1000,Intestinal infection,135,1,0,2,Proper hand-washing.Washing of soiled articles of clothing.
+1001,Polyhydramnios and other problems of amniotic cavity,191,1,1,2,Eat a variety of healthy foods. Take prenatal vitamins as directed.
+1002,Other male genital disorders,166,0,4,2,Stay physically active. Pay attention to your mental health. 
+1003,Gastritis and duodenitis,140,0,2,2,"Choose water and other clear liquids until you feel better.Avoiding fatty, fried, spicy or acidic foods."
+1004,Skin and subcutaneous tissue infections,197,1,0,2,Wash your hands often and properly.Never share personal items such as razors and towels.
+1005,Previous C-section,189,1,2,2,Take it easy. Rest when possible.Use recommended pain relief. 
+1006,Intestinal infection,135,0,2,2,Proper hand-washing.Identifying infected patients as soon as possible to implement extended infection control.
+1007,Other and unspecified benign neoplasm,47,1,1,2,"keeping a healthy weight, avoiding tobacco, limiting the amount of alcohol you drink, and protecting your skin."
+1008,Spondylosis; intervertebral disc disorders; other back problems,205,0,3,2,Light exercise such as walking or swimming will help you to retain your range of movement and keep your bones and muscles healthy.
+1009,Other complications of birth; puerperium affecting management of mother,195,1,2,2,Eat healthy meals.Continue taking your prenatal vitamins every day. 
+1010,Other complications of birth; puerperium affecting management of mother,195,1,1,2,Eat healthy meals.Continue taking your prenatal vitamins every day.
+1011,Essential hypertension,98,1,4,2,Eat a Healthy Diet.Be Physically Active.Get Enough Sleep.
+1012,Polyhydramnios and other problems of amniotic cavity,191,1,2,2,Eat a variety of healthy foods.Take prenatal vitamins as directed. 
+1013,Other nutritional; endocrine; and metabolic disorders,58,1,3,2,"Limit processed foods, saturated and trans fats, red meat, sodium and added sugars."
+1014,Other nutritional; endocrine; and metabolic disorders,58,1,1,2,"Adopt a diet rich in whole grains, fruits, vegetables, skinless poultry, fish, nuts, low-fat or fat-free dairy products, lean meats and vegetable protein."
+1015,Prolapse of female genital organs,170,1,4,2,"Drink plenty of fluids and eat high-fiber foods, such as fruits, vegetables, beans and whole-grains."
+1016,Intracranial injury,233,0,1,2,Get plenty of sleep (at least 8–10 hours in a 24-hour period).Keep regular sleep and wake times.
+1017,Other congenital anomalies,217,1,1,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1018,Transient cerebral ischemia,112,1,3,2,Eat plenty of fruits and vegetables. Exercise regularly. 
+1019,Prolapse of female genital organs,170,1,2,2,"Drink plenty of fluids and eat high-fiber foods, such as fruits, vegetables, beans and whole-grains."
+1020,Deficiency and other anemia,59,1,1,2,"ensuring balanced and adequate diet rich in iron, vitamin B12 and folate."
+1021,Other gastrointestinal disorders,155,0,1,2,Exercising regularly and increasing the intensity of your exercises as tolerated.Increasing the amount of fiber and water to your diet.
+1022,Anxiety disorders,651,1,1,2,"Exercise regularly and eat a healthy, balanced diet. "
+1023,Pulmonary heart disease,103,0,2,2,"quitting smoking, cutting down on salt and eating a healthy diet."
+1024,Syncope,245,0,4,2,Do not strain if you are constipated.Be careful in hot weather.
+1025,Other congenital anomalies,217,1,3,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1026,Open wounds of extremities,236,1,4,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day. 
+1027,Other and ill-defined heart disease,104,0,1,2,Having a healthy weight reduces your chances of developing high blood pressure.Regular exercise.
+1028,Other hereditary and degenerative nervous system conditions,81,0,2,2,Reach and Keep A Health Weight.Take Dietary Supplements.
+1029,Adjustment disorders,650,1,3,2,Be Physically Active and Take Rest.
+1030,Other congenital anomalies,217,0,2,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1031,Diverticulosis and diverticulitis,146,1,1,2,Exercise regularly. Exercise promotes normal bowel function and reduces pressure inside your colon.Eat more fiber.
+1032,Other congenital anomalies,217,0,4,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1033,Poisoning by other medications and drugs,242,1,1,2,"Leave cleaning products and poisonous products in their original containers.mmediately get the person to fresh air, without placing yourself at risk."
+1034,Cancer; other and unspecified primary,41,1,3,2,Physical activity.Sun safety.Eat Nutrition food.
+1035,Epilepsy; convulsions,83,0,0,2,Get enough sleep.Be healthy.Manage stress.
+1036,Cardiac and circulatory congenital anomalies,213,1,1,2,"Reducing obesity, providing better control of diabetes,Get good quality sleep."
+1037,Other upper respiratory infections,126,0,2,2,"Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1038,Superficial injury; contusion,239,0,4,2,Apply ice immediately after the injury to reduce blood flow around the area.
+1039,Other skin disorders,200,1,2,2,"Wash your hands often and properly. Wash scrapes, cuts, wounds, or insect bites right away."
+1040,Malignant neoplasm without specification of site,43,1,3,2,Eat a healthy diet.Protect yourself from the sun.
+1041,Other bone disease and musculoskeletal deformities,212,0,0,2,nclude plenty of calcium in your diet.Pay attention to vitamin D.
+1042,Gastrointestinal hemorrhage,153,0,1,2,"Limit your use of nonsteroidal anti-inflammatory drugs.Eat red meat, shellfish, poultry, and eggs. They also include beans, raisins, whole-grain breads, and leafy green vegetables."
+1043,Menopausal disorders,173,1,3,2,Eat a healthful diet.Exercise regularly.
+1044,Transient cerebral ischemia,112,1,2,2,Eat plenty of fruits and vegetables.Exercise regularly.
+1045,Osteoarthritis,203,0,3,2,Regular physical activity.losing weight if you're overweight. wearing suitable footwear.
+1046,Previous C-section,189,1,1,2,Take it easy. Rest when possible.Use recommended pain relief.
+1047,Abdominal hernia,143,0,2,2,"
+Eat high-fiber foods and drink plenty of water."
+1048,Other bone disease and musculoskeletal deformities,212,0,2,2,Include plenty of calcium in your diet.Pay attention to vitamin D.
+1049,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,1,0,2,"washing your hands regularly and thoroughly, particularly after touching your nose and mouth, and before handling food."
+1050,Epilepsy; convulsions,83,1,2,2,"Put in carpets, cover sharp corners, and avoid glass tables and shower screens."
+1051,Nonspecific chest pain,102,0,2,2,"Exercising most days of the week.Take Strawberries, blueberries, blackberries, and raspberries."
+1052,Nonspecific chest pain,102,0,4,2,"Take Strawberries, blueberries, blackberries, and raspberries.Exercising most days of the week."
+1053,Other complications of birth; puerperium affecting management of mother,195,1,0,2,Eat healthy meals.Continue taking your prenatal vitamins every day.
+1054,Anxiety disorders,651,1,3,2,"Exercise regularly and eat a healthy, balanced diet. "
+1055,Phlebitis; thrombophlebitis and thromboembolism,118,1,2,2,Get up and walk around every 1 to 2 hours.Exercise your legs while you're sitting by: Raising and lowering your heels while keeping your toes on the floor.
+1056,Osteoarthritis,203,0,2,2,Regular physical activity.losing weight if you're overweight. wearing suitable footwear.
+1057,Asthma,128,1,1,2,Pay attention to increasing quick-relief inhaler use.Monitor your breathing.
+1058,Influenza,123,0,1,2,Clean your hands.Cover your mouth and nose.Practice other good health habits.
+1059,Essential hypertension,98,1,2,2,Eat a Healthy Diet.Be Physically Active.Get Enough Sleep.
+1060,Urinary tract infections,159,1,0,2,"Drinking lots of fluid, especially water."
+1061,Other female genital disorders,175,1,1,2,"Maintain a healthy lifestyle. Proper diet, healthy body weight, exercise and sufficient sleep."
+1062,Abdominal pain,251,1,4,2,"Wash Your Hands.Drink More Water, Less Soda."
+1063,Other upper respiratory infections,126,1,4,2,"Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1064,Nonmalignant breast conditions,167,1,1,2,"Get regular mammogram screenings. Drink less coffee, tea, and soda containing caffeine."
+1065,Appendicitis and other appendiceal conditions,142,1,2,2, Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.Eat Brown rice instead of white rice.
+1066,Acute and chronic tonsillitis,124,1,2,2,"Wash your hands often, especially before touching your nose or mouth. Avoid sharing food, drink, or utensils with someone who's sick."
+1067,Other and ill-defined cerebrovascular disease,111,1,3,2,Choose healthy foods and drinks. Choosing healthy meal and snack options can help you prevent stroke.Get regular physical activity
+1068,Joint disorders and dislocations; trauma-related,225,0,3,2,Staying physically active to keep the muscles and tendons around the joints strong.Maintaining a healthy weight to avoid increased pressure on the bones.
+1069,Prolonged pregnancy,185,1,1,2,"Eat a diet high in fruits, vegetables, low-fat forms of protein, and fiber.Eat enough calories (about 300 more calories than normal per day)."
+1070,Other diseases of veins and lymphatics,121,0,3,2,Drink plenty of water to stay hydrated so lymph can easily move throughout your body.Maintain a healthy lifestyle that includes regular exercise and a healthy diet.
+1071,Conditions associated with dizziness or vertigo,93,0,4,2,Have the person lie down and rest.
+1072,OB-related trauma to perineum and vulva,193,1,0,2,"Warm bath. Sit in a warm bath before you start.Rinse your vulva with mild soap and water when you shower, and dry after."
+1073,Other eye disorders,91,0,3,2,Maintain your blood sugar levels.Maintain a healthy weight. 
+1074,Phlebitis; thrombophlebitis and thromboembolism,118,0,1,2,To help prevent a blood clot: Take a walk.
+1075,Acute bronchitis,125,0,4,2,"Wash your hands often or use an alcohol-based hand sanitizer.drink plenty of fluids like water, diluted fruit juices, herbal tea, and clear soups. "
+1076,Occlusion or stenosis of precerebral arteries,110,1,3,2,"Eat a healthy, balanced diet.Be more physically active."
+1077,Other complications of pregnancy,181,1,2,2,Maintain or achieve a healthy weight before pregnancy.Take prenatal supplements.
+1078,Headache; including migraine,84,1,2,2,"Sip a caffeinated drink. In small amounts, caffeine alone can relieve migraine pain in the early stages."
+1079,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,186,1,2,2,losing weight if you're overweight and getting regular physical activity
+1080,Appendicitis and other appendiceal conditions,142,1,4,2, Eating a high-fiber diet with lots of whole grains and fresh fruits and vegetables.
+1081,Early or threatened labor,184,1,1,2,Eat a balanced diet with foods containing iron and folic acid.
+1082,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,186,1,1,2,losing weight if you're overweight and getting regular physical activity.
+1083,Prolonged pregnancy,185,1,2,2,"Eat a diet high in fruits, vegetables, low-fat forms of protein, and fiber.Eat enough calories (about 300 more calories than normal per day)."
+1084,Calculus of urinary tract,160,1,2,2,"drinking plenty of water.You're advised to: drink water, but drinks like tea and coffee also count."
+1085,Essential hypertension,98,0,3,2,Eat a Healthy Diet. Choose healthy meal and snack options to help you avoid high blood pressure and its complications.Get Enough Sleep.
+1086,Other upper respiratory infections,126,0,0,2," Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1087,Acute bronchitis,125,0,3,2,"Wash your hands often or use an alcohol-based hand sanitizer.drink plenty of fluids like water, diluted fruit juices, herbal tea, and clear soups. "
+1088,Fetopelvic disproportion; obstruction,188,1,2,2,Maintain or achieve a healthy weight.Exercise Regularly.Get Enough Sleep.
+1089,Spondylosis; intervertebral disc disorders; other back problems,205,1,1,2,Light exercise such as walking or swimming will help you to retain your range of movement and keep your bones and muscles healthy
+1090,Chronic obstructive pulmonary disease and bronchiectasis,127,0,2,2,Eat right and exercise.Get rest. Take your medications correctly. 
+1091,Miscellaneous disorders,670,1,2,2,Handle & Prepare Food Safely. Food can carry germs.Cough and Sneeze into a Tissue or Your Sleeve.Wash Hands Often.
+1092,Abdominal pain,251,0,3,2,"Drink More Water, Less Soda.Wash Your Hands.Diluted juices such as apple, grape, cherry or cranberry (avoid citrus juices)."
+1093,Fluid and electrolyte disorders,55,1,1,2,drink plenty of water during physical activity. Eat a balanced diet containing electrolyte-rich foods.
+1094,Liveborn,218,1,0,2,
+1095,OB-related trauma to perineum and vulva,193,1,1,2,Keep your perineum warm. Placing a warm cloth on the perineum during the second stage of labor might help.
+1096,Liveborn,218,0,0,2,
+1097,Poisoning by psychotropic agents,241,1,2,2,Get on to the right medication for you.Change the dose of the antipsychotic medication.
+1098,Noninfectious gastroenteritis,154,0,2,2,wearing gloves and a plastic apron or impervious gown when having contact with the patient or the patient's environment.
+1099,Other complications of pregnancy,181,1,1,2,Maintain or achieve a healthy weight before pregnancy.Take prenatal supplements.
+1100,OB-related trauma to perineum and vulva,193,1,2,2,Keep your perineum warm. Placing a warm cloth on the perineum during the second stage of labor might help.
+1101,Calculus of urinary tract,160,1,3,2,drink plenty of water each day to avoid becoming dehydrated.
+1102,Spondylosis; intervertebral disc disorders; other back problems,205,1,2,2,Light exercise such as walking or swimming will help you to retain your range of movement and keep your bones and muscles healthy
+1103,Nonspecific chest pain,102,1,4,2,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1104,Complication of device; implant or graft,237,1,0,2,Avoid anything with sharp edges and don't chew over the implant site. Don't use straws for 24 hours.Rest and limit activity for the first 24 to 48 hours 
+1105,Abdominal pain,251,0,1,2,"eat mild foods, such as rice, dry toast or crackers, bananas, and applesauce.Hydration. Drink plenty of water or a hydration formula."
+1106,Conduction disorders,105,0,3,2,managing stress and exercising regularly.
+1107,Sprains and strains,232,1,3,2,Avoid exercising or playing sports when tired or in pain.Maintain a healthy weight and well-balanced diet to keep muscles strong.
+1108,Disorders of teeth and jaw,136,1,2,2,Drink fluoridated water and brush with fluoride toothpaste.Practice good oral hygiene.
+1109,Diseases of white blood cells,63,1,1,2,"Handwashing. Clean your hands often, especially after being around others or in public spaces.Eat raw meats or fish salads."
+1110,Conditions associated with dizziness or vertigo,93,0,0,2,Avoid working at heights.Have the person lie down and rest.Wear shoes with low heels and non-slip soles.
+1111,Cancer of ovary,27,1,3,2,"Exercise and Diet. By maintaining a weekly exercise regime and a healthy diet, the risk of ovarian cancer decreases. Take carrots, deep orange fruits,"
+1112,Coagulation and hemorrhagic disorders,62,1,3,2,"Exercise regularly. Activities such as swimming, bicycle riding and walking can build muscles while protecting joints."
+1113,Abdominal hernia,143,0,1,2,"Maintaining a healthy weight.Eating high-fiber foods such as vegetables, fruit, nuts and seeds, to help prevent constipation and straining."
+1114,Substance-related disorders,661,0,0,2,
+1115,Disorders of teeth and jaw,136,1,1,2,Drink fluoridated water and brush with fluoride toothpaste. Practice good oral hygiene. Brush teeth thoroughly twice a day and floss daily between the teeth to remove dental plaque. 
+1116,Thyroid disorders,48,1,1,2,"Drink a lot of water.Eat selenium, tyrosine, and antioxidants rich food.eat some beans, pulses, fish, eggs, meat and other protein."
+1117,Other female genital disorders,175,1,2,2,
+1118,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,0,4,2,Wear mask and face protection for intubation.
+1119,Rheumatoid arthritis and related disease,202,0,3,2,Don't skimp on sleep. Sleep is not a luxury—it's essential to your physical and mental well-being.Eat an anti-inflammatory diet.
+1120,Other ear and sense organ disorders,94,1,2,2,Keep the sound as low as possible on the TV and radio.Don't use cotton buds.Remove the headphones from time to time to give your ears a rest. 
+1121,Leukemias,39,1,3,2,"Practice good hygiene including regular handwashing and dental care (such as brushing and flossing).Eat only well-cooked foods (no raw fruits or vegetables or undercooked poultry, meat, or fish)."
+1122,Headache; including migraine,84,1,4,2,"Minimize processed foods in your diet, and avoid chemical triggers like MSG and nitrites,Sip a caffeinated drink. Relax in a dark, quiet room. "
+1123,Neoplasms of unspecified nature or uncertain behavior,44,0,1,2," keeping a healthy weight, avoiding tobacco, limiting the amount of alcohol you drink, and protecting your skin."
+1124,Viral infection,7,1,0,2,Cover your mouth when you cough or sneeze.Frequent hand-washing.
+1125,Acute myocardial infarction,100,0,1,2,"Stop exercising immediately if you experience chest pain, fatigue, or labored breathing.Eat a heart-healthy diet."
+1126,Other fractures,231,1,2,2,"Apply ice packs to limit swelling and help relieve pain.Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing."
+1127,Other disorders of stomach and duodenum,141,0,2,2,"losing weight if you are overweight.Take Non glutenous grains, non citric fruits and vegetables."
+1128,Other endocrine disorders,51,1,2,2,Get plenty of exercise.Eat a nutritious diet.
+1129,Sprains and strains,232,1,1,2,Avoid exercising or playing sports when tired or in pain.Maintain a healthy weight and well-balanced diet to keep muscles strong.
+1130,Acute posthemorrhagic anemia,60,1,1,2,Following a healthy diet.Drinking enough water to stay hydrated. 
+1131,Conditions associated with dizziness or vertigo,93,1,3,2,Have the person lie down and rest. Wear shoes with low heels and non-slip soles.
+1132,Substance-related disorders,661,1,0,2,
+1133,Coma; stupor; and brain damage,85,0,1,2,Get enough sleep and take rest breaks throughout the day. Maintain good lighting in all environments.
+1134,Burns,240,0,1,2," Cool any smoldering clothing immediately by soaking with water, then remove any clothing from the burned area unless it is stuck firmly to the skin. "
+1135,Cancer of bone and connective tissue,21,1,3,2,"Reduce stress.Eat Blueberries, blackberries, cherries, cinnamon, acai, red cabbage and onions."
+1136,Cancer of cervix,26,1,2,2,"Eat apples, asparagus, black beans, broccoli, brussels sprouts, cabbage, cranberries, garlic, lettuce, lima beans, onions, soy and spinach."
+1137,Acute bronchitis,125,1,0,2,"Wash your hands often or use an alcohol-based hand sanitizer.Avoid touching your eyes, nose and mouth.drink plenty of fluids like water, diluted fruit juices, herbal tea, and clear soups."
+1138,Residual codes; unclassified,259,0,1,2,
+1139,Joint disorders and dislocations; trauma-related,225,0,2,2,Staying physically active to keep the muscles and tendons around the joints strong.Maintaining a healthy weight to avoid increased pressure on the bones.
+1140,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,1,1,2,Wear mask and face protection for intubation.
+1141,Blindness and vision defects,89,0,4,2,Staying physically active to keep the muscles and tendons around the joints strong.Maintaining a healthy weight to avoid increased pressure on the bones.
+1142,Burns,240,1,3,2,"Cool any smoldering clothing immediately by soaking with water, then remove any clothing from the burned area unless it is stuck firmly to the skin. "
+1143,Septicemia (except in labor),2,1,0,2,"Cleaning scrapes and wounds and practicing good hygiene by washing hands and bathing regularly.Don't share dishes, glasses, or eating utensils."
+1144,Cancer of bone and connective tissue,21,0,1,2,"Reduce stress.Eat Blueberries, blackberries, cherries, cinnamon, acai, red cabbage and onions."
+1145,Coma; stupor; and brain damage,85,1,3,2,Get enough sleep and take rest breaks throughout the day. Maintain good lighting in all environments.
+1146,Calculus of urinary tract,160,0,2,2,"drink plenty of water each day to avoid becoming dehydrated.drink water, but drinks like tea and coffee also count."
+1147,Transient cerebral ischemia,112,0,1,2,Eat plenty of fruits and vegetables.Exercise regularly.
+1148,Other hereditary and degenerative nervous system conditions,81,0,1,2,Exercise regularly.Drink plenty of water and other fluids.Get plenty of rest.
+1149,Fever of unknown origin,246,1,2,2,"Wash your hands often, especially before eating, after using the toilet, and after being around large numbers of people.Take rest."
+1150,Hypertension with complications and secondary hypertension,99,1,1,2,Eat a Healthy Diet. Choose healthy meal and snack options to help you avoid high blood pressure.Get Enough Sleep.
+1151,Allergic reactions,253,0,4,2,"Use of hydrolysed milk formulas.Regularly washing and vacuuming cushions, soft toys, curtains and sofas."
+1152,Biliary tract disease,149,1,0,2,"Drinks such as roasted dandelion root tea, lemon tea, celery juice and coffee all stimulate bile production."
+1153,Inflammatory conditions of male genital organs,165,0,0,2,Maintain a healthy lifestyle.Practice good Hygiene.
+1154,Fetopelvic disproportion; obstruction,188,1,0,2,Maintain or achieve a healthy weight.Exercise Regularly.Get Enough Sleep.
+1155,Fracture of upper limb,229,1,3,2,No Heavy lifting with the affected extremly.
+1156,Other acquired deformities,209,1,1,2,Stand straight and place your hands on your feet.Regularly exercise.
+1157,Superficial injury; contusion,239,1,3,2,"cleaned, an antibacterial ointment applied, and then covered with a Band-Aid or light bandage. "
+1158,Influenza,123,1,1,2,Clean your hands.Practice other good health habits.Cover your mouth and nose.
+1159,Influenza,123,0,0,2,Clean your hands.Practice other good health habits.Cover your mouth and nose.
+1160,Other circulatory disease,117,0,1,2,"limit saturated fats, foods high in sodium, and added sugars. Eat plenty of fresh fruit, vegetables, and whole grains. "
+1161,Other non-traumatic joint disorders,204,0,2,2,Keep a healthy body weight. Extra weight puts stress on your joints.Be active every day.
+1162,Other upper respiratory disease,134,0,2,2,"Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1163,Headache; including migraine,84,1,0,2,"Sip a caffeinated drink. In small amounts, caffeine alone can relieve migraine pain in the early stages."
+1164,Fracture of upper limb,229,0,2,2,No Heavy lifting with the affected extremly.
+1165,Gout and other crystal arthropathies,54,0,3,2,"Eat a healthy diet. Avoid foods that may trigger a gout flare, including foods high in purines (like a diet rich in red meat, organ meat, and seafood)."
+1166,Immunity disorders,57,1,1,2,Eat a healthy diet that includes lots of fruits and vegetables.Get enough sleep.
+1167,Allergic reactions,253,1,1,2,"Use of hydrolysed milk formulas.Regularly washing and vacuuming cushions, soft toys, curtains and sofas."
+1168,Other perinatal conditions,224,1,0,2,Maintain good hygiene.Eat healthy foods and maintain a healthy weight.Take a vitamin with folic acid every day.
+1169,Otitis media and related conditions,92,1,0,2,to eat healthy foods like fruit and vegetables.
+1170,Ovarian cyst,172,1,1,2,"high fiber foods, including broccoli, greens, almonds, berries, and squash.Take lean proteins, including fish, tofu, and chicken."
+1171,Ovarian cyst,172,1,2,2,"high fiber foods, including broccoli, greens, almonds, berries, and squash.Take lean proteins, including fish, tofu, and chicken."
+1172,Other and ill-defined heart disease,104,0,3,2,Having a healthy weight reduces your chances of developing high blood pressure.Regular exercise.
+1173,Forceps delivery,194,1,2,2,Using upright positions or lying on your side and not having an epidural may also help.
+1174,Anxiety disorders,651,0,0,2,"Exercise regularly and eat a healthy, balanced diet."
+1175,Tuberculosis,1,0,2,2,Establish cough etiquette practices among staff and clients.
+1176,Fracture of lower limb,230,0,1,2,"Apply ice packs to limit swelling and help relieve pain.Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing."
+1177,Umbilical cord complication,192,1,0,2,"Wash your hands.Use sponge baths to cleanse your baby until the stump falls off, and avoid sponging the area around the stump."
+1178,Other inflammatory condition of skin,198,0,4,2,"Wash your hands often and properly.Wash scrapes, cuts, wounds, or insect bites right away.Do not share items, such as towels."
+1179,Paralysis,82,0,2,2,"Avoid foods that are bitter, acidic, or pungent.Nuts are very good options to include in your daily diet. "
+1180,Fluid and electrolyte disorders,55,1,0,2,drink plenty of water during physical activity. Eat a balanced diet containing electrolyte-rich foods. 
+1181,Bacterial infection; unspecified site,3,1,2,2,Cover coughs and sneezes.Avoid close contact with people who are sick
+1182,Other and ill-defined cerebrovascular disease,111,0,2,2,Choose healthy foods and drinks. Choosing healthy meal Keep a healthy weight.Get regular physical activity.
+1183,Other pregnancy and delivery including normal,196,1,0,2,Get Enough Sleep.Reduce Stress. The March of Dimes reports that maternal stress is associated with preterm birth and low birthweight.
+1184,Esophageal disorders,138,0,2,2,"Cut back on spicy, fatty, tomato-based or citrus foods, as well as caffeinated and carbonated drinks.Avoid eating late at night and allow at least three hours between eating and lying down."
+1185,Allergic reactions,253,0,1,2,"Use of hydrolysed milk formulas.Regularly washing and vacuuming cushions, soft toys, curtains and sofas."
+1186,Other upper respiratory disease,134,1,4,2," Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1187,Gastritis and duodenitis,140,1,1,2,"Avoiding fatty, fried, spicy or acidic foods.Eat a variety of healthy foods. Eat fruits (not citrus), vegetables, low-fat dairy products, beans, whole-grain breads, and lean meats and fish."
+1188,Genitourinary symptoms and ill-defined conditions,163,1,2,2,"Drink plenty of liquids, especially water. Try cranberry juice."
+1189,Cancer of other urinary organs,34,1,4,2,Eat lots of fruits and vegetables.Drink plenty of liquids.
+1190,Gastritis and duodenitis,140,1,0,2,"Avoiding fatty, fried, spicy or acidic foods.Eat a variety of healthy foods. Eat fruits (not citrus), vegetables, low-fat dairy products, beans, whole-grain breads, and lean meats and fish."
+1191,Open wounds of extremities,236,0,0,2,Plan ahead. Get 400 micrograms (mcg) of folic acid every day. 
+1192,Poisoning by nonmedicinal substances,243,0,0,2,"Do not store medicines, cleaning products or chemicals near food.never put medicines or chemicals, such as weedkiller, in soft drinks bottles. "
+1193,Poisoning by nonmedicinal substances,243,0,2,2,"Do not store medicines, cleaning products or chemicals near food.never put medicines or chemicals, such as weedkiller, in soft drinks bottles. "
+1194,Other lower respiratory disease,133,0,0,2,"plenty of fluids, and get plenty of rest. Using a humidifier to breathe warm, moist air may provide relief."
+1195,Other complications of pregnancy,181,1,0,2,Maintain or achieve a healthy weight before pregnancy.Take prenatal supplements.
+1196,Influenza,123,0,2,2,Clean your hands.Practice other good health habits.Cover your mouth and nose.
+1197,Syncope,245,0,2,2,"stay out of hot places and don't stand for long periods.Diets should include foods such as bran cereal, fruits (both fresh and dried), vegetables (including beans and lentils) "
+1198,Epilepsy; convulsions,83,1,0,2,Get enough sleep.Be healthy.Manage stress.
+1199,Poisoning by nonmedicinal substances,243,0,3,2,"Do not store medicines, cleaning products or chemicals near food.never put medicines or chemicals, such as weedkiller, in soft drinks bottles. "
+1200,Poisoning by nonmedicinal substances,243,0,4,2,"Do not store medicines, cleaning products or chemicals near food.never put medicines or chemicals, such as weedkiller, in soft drinks bottles. "
+1201,Adjustment disorders,650,1,4,2,
+1202,Systemic lupus erythematosus and connective tissue disorders,210,0,3,2,Avoiding sun exposure. Wearing sunscreen and protective clothing when your child goes outside can help protect the skin.Getting enough sleep (seven to nine hours each night).
+1203,Other congenital anomalies,217,0,1,2,Choose a healthy lifestyle. Keep diabetes under control. Plan ahead. Get 400 micrograms (mcg) of folic acid every day. Avoid harmful substances
+1204,Transient cerebral ischemia,112,0,2,2,Eat plenty of fruits and vegetables. Exercise regularly. Limit cholesterol and fat. 
+1205,Osteoarthritis,203,0,1,2,keep a healthy body weight. Extra weight puts stress on your joints.Be active every day. Exercise is a good way to prevent joint problems.
+1206,Personality disorders,658,0,3,2,Be patient.Be calm and consistent.Provide distractions.
+1207,Esophageal disorders,138,1,1,2,"Cut back on spicy, fatty, tomato-based or citrus foods, as well as caffeinated and carbonated drinks.Avoid eating late at night and allow at least three hours between eating and lying down."
+1208,Syncope,245,0,0,2,"stay out of hot places and don't stand for long periods.Diets should include foods such as bran cereal, fruits (both fresh and dried), vegetables (including beans and lentils) "
+1209,Nutritional deficiencies,52,0,2,2,"Eating simple, wholesome food such as groundnut, soybean, pulses, etc. "
+1210,Suicide and intentional self-inflicted injury,662,0,1,2,
+1211,Hypertension complicating pregnancy; childbirth and the puerperium,183,1,0,2,Eat healthy meals.Continue taking your prenatal vitamins every day.
+1212,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),122,0,0,2,"washing your hands regularly and thoroughly, particularly after touching your nose and mouth, and before handling food.rest, antibiotics, and increased fluid intake."
+1213,Early or threatened labor,184,1,2,1,Eat a balanced diet with foods containing iron and folic acid.Don't use street drugs and avoid misuse of prescription drugs.
+1214,Spondylosis; intervertebral disc disorders; other back problems,205,0,2,1,Light exercise such as walking or swimming will help you to retain your range of movement and keep your bones and muscles healthy
+1215,Acute bronchitis,125,0,0,1,"Wash your hands often or use an alcohol-based hand sanitizer.Avoid touching your eyes, nose and mouth."
+1216,Menstrual disorders,171,1,2,1,Practice stress reduction and relaxation techniques.Excessive sports activities can cause irregular periods. Use birth control pills or other contraceptive methods as directed.
+1217,Nonspecific chest pain,102,0,3,1,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1218,Asthma,128,1,0,1,Pay attention to increasing quick-relief inhaler use.
+1219,Occlusion or stenosis of precerebral arteries,110,0,3,1,"Exercise.Lower cholesterol. Eat a low-fat, low-cholesterol diet."
+1220,Other pregnancy and delivery including normal,196,1,2,1,Get Enough Sleep.Reduce Stress. The March of Dimes reports that maternal stress is associated with preterm birth and low birthweight.
+1221,Umbilical cord complication,192,1,1,1,"Wash your hands.Avoid getting the stump wet as much as possible. Use sponge baths to cleanse your baby until the stump falls off, and avoid sponging the area around the stump."
+1222,Umbilical cord complication,192,1,2,1,"Wash your hands.Avoid getting the stump wet as much as possible. Use sponge baths to cleanse your baby until the stump falls off, and avoid sponging the area around the stump."
+1223,Nonspecific chest pain,102,1,3,1,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1224,Other pregnancy and delivery including normal,196,1,1,1,Get Enough Sleep.Reduce Stress. The March of Dimes reports that maternal stress is associated with preterm birth and low birthweight.
+1225,Other nutritional; endocrine; and metabolic disorders,58,0,1,1,"Adopt a diet rich in whole grains, fruits, vegetables, skinless poultry, fish, nuts, low-fat or fat-free dairy products, lean meats and vegetable protein."
+1226,Spondylosis; intervertebral disc disorders; other back problems,205,0,1,1,Light exercise such as walking or swimming will help you to retain your range of movement and keep your bones and muscles healthy
+1227,Hyperplasia of prostate,164,0,3,1,"regular exercise, watching your waistline, eating vegetables and fruits, and keeping an eye on dietary fat."
+1228,Asthma,128,0,0,1,Pay attention to increasing quick-relief inhaler use.
+1229,Nonspecific chest pain,102,1,2,1,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1230,Other and ill-defined cerebrovascular disease,111,1,2,1,Choose healthy foods and drinks. Choosing healthy meal and snack options can help you prevent stroke.Get regular physical activity
+1231,Abdominal pain,251,0,4,1,"Drink plenty of clear fluids such as water. Reduce your intake of coffee, tea and alcohol as these can make the pain worse."
+1232,Syncope,245,0,3,1,Move slowly and let yourself get used to one position before you move to another position.Be careful in hot weather.
+1233,Fracture of upper limb,229,0,3,1,"Stop any bleeding. Apply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing.Apply ice packs to limit swelling and help relieve pain."
+1234,Essential hypertension,98,0,4,1,Get Enough Sleep.Eat a Healthy Diet. Choose healthy meal and snack options to help you avoid high blood pressure.
+1235,Suicide and intentional self-inflicted injury,662,1,2,1,
+1236,Essential hypertension,98,1,3,1,Get Enough Sleep.Eat a Healthy Diet. Choose healthy meal and snack options to help you avoid high blood pressure.
+1237,Other nutritional; endocrine; and metabolic disorders,58,1,2,1,"Adopt a diet rich in whole grains, fruits, vegetables, skinless poultry, fish, nuts, low-fat or fat-free dairy products, lean meats and vegetable protein."
+1238,Prolapse of female genital organs,170,1,3,1," Drink plenty of fluids and eat high-fiber foods, such as fruits, vegetables, beans and whole-grains. Avoid heavy lifting."
+1239,Other congenital anomalies,217,1,2,1,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.Choose a healthy lifestyle. Keep diabetes under control.
+1240,Skin and subcutaneous tissue infections,197,0,0,1,"Wash your hands often and properly. Wash scrapes, cuts, wounds, or insect bites right away. "
+1241,Anal and rectal conditions,147,0,1,1,Sitz baths with warm water to clean the anal area and relieve pain.A high-fiber diet to help ensure soft bowel movements.
+1242,Diabetes or abnormal glucose tolerance complicating pregnancy; childbirth; or the puerperium,186,1,0,1,Losing weight if you're overweight and getting regular physical activity.Schedule regular physicals and eye exams. 
+1243,Suicide and intentional self-inflicted injury,662,1,1,1,
+1244,Intracranial injury,233,0,2,1,Get plenty of sleep (at least 8–10 hours in a 24-hour period).Avoid caffeine.No screen time or listening to loud music before bed.
+1245,Nausea and vomiting,250,1,2,1,"Drink water, sports drinks, or broths. Eat small meals and eat them slowly."
+1246,Syncope,245,1,2,1,"Eating a higher salt diet, to help keep up blood volume.Drinking plenty of fluids, to maintain blood volume."
+1247,Neoplasms of unspecified nature or uncertain behavior,44,0,2,1," keeping a healthy weight, avoiding tobacco, limiting the amount of alcohol you drink, and protecting your skin."
+1248,Other diseases of kidney and ureters,161,1,1,1,"plenty of fruit and vegetables – aim for at least 5 portions a day. meals that include starchy foods, such as potatoes, wholegrain bread, rice or pasta."
+1249,Intestinal infection,135,0,1,1,Proper hand-washing.Washing of soiled articles of clothing.
+1250,Meningitis (except that caused by tuberculosis or sexually transmitted disease),76,0,1,1,"wearing personal protective equipment (PPE), such as face masks.removing all PPE when leaving a patient's room."
+1251,Cardiac arrest and ventricular fibrillation,107,1,4,1,"You should eat a heart-healthy diet.You should stay active, such as by walking 30 minutes per day."
+1252,Residual codes; unclassified,259,1,2,1,
+1253,Genitourinary symptoms and ill-defined conditions,163,1,1,1,"Drink plenty of liquids, especially water. Drinking water helps dilute the urine.Try cranberry juice."
+1254,Respiratory failure; insufficiency; arrest (adult),131,0,0,1,"oxygen therapy, medicines, and procedures to help your lungs rest and heal."
+1255,Crushing injury or internal injury,234,0,1,1,Cover the area with a wet cloth or bandage.Warm up and cool down.
+1256,Fever of unknown origin,246,0,1,1,"Wash your hands often, especially before eating, after using the toilet, and after being around large numbers of people.Take rest."
+1257,Gout and other crystal arthropathies,54,0,2,1,"Eat a healthy diet. Avoid foods that may trigger a gout flare, including foods high in purines (like a diet rich in red meat, organ meat, and seafood)."
+1258,Blindness and vision defects,89,1,3,1,Maintain a healthy weight.Maintain your blood sugar levels.
+1259,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),90,0,4,1,"Provide tissue, surgical masks, hand-hygiene products, and waste containers in common areas, such as waiting rooms, so people with respiratory symptoms can contain coughing and sneezing"
+1260,Other endocrine disorders,51,1,1,1,Get plenty of exercise.Eat a nutritious diet.
+1261,Fever of unknown origin,246,1,4,1,"Wash your hands often, especially before eating, after using the toilet, and after being around large numbers of people.Take rest."
+1262,Inflammatory diseases of female pelvic organs,168,1,1,1,You should take rest. 
+1263,Cancer of uterus,25,1,4,1,"Keeping a healthy weight and being physically active.Large amounts of fruits, vegetables, legumes and cereals (including potatoes and bread)"
+1264,Poisoning by other medications and drugs,242,0,1,1,"Immediately get the person to fresh air, without placing yourself at risk. Loosen any tight clothing at the neck. Open doors and windows, if indoors. Avoid breathing fumes."
+1265,Hemolytic jaundice and perinatal jaundice,222,0,0,1,Eating a well-balanced diet supports your liver health and may help clear jaundice symptoms.Fruit and vegetable juices. Drinking juices with the goodness of nutrients.
+1266,Asthma,128,0,1,1,Pay attention to increasing quick-relief inhaler use.
+1267,Other nutritional; endocrine; and metabolic disorders,58,0,2,1,"Adopt a diet rich in whole grains, fruits, vegetables, skinless poultry, fish, nuts, low-fat or fat-free dairy products, lean meats and vegetable protein."
+1268,Neoplasms of unspecified nature or uncertain behavior,44,1,2,1,Maintain a healthy weight and be physically active.Protect yourself from the sun.
+1269,Hemolytic jaundice and perinatal jaundice,222,1,0,1,Eating a well-balanced diet supports your liver health and may help clear jaundice symptoms.Fruit and vegetable juices. Drinking juices with the goodness of nutrients.
+1270,Crushing injury or internal injury,234,1,2,1,Cover the area with a wet cloth or bandage.Warm up and cool down.
+1271,Other upper respiratory disease,134,0,4,1,"Wash your hands regularly.Minimize close contact with persons who have symptoms of respiratory illness, such as coughing or sneezing."
+1272,Diabetes mellitus with complications,50,1,0,1,Schedule regular physicals and eye exams.Pay attention to your feet.Take care of your teeth.
+1273,Nonmalignant breast conditions,167,1,3,1,"
+Maintain a healthy weight. If your weight is healthy, work to maintain that weight.Be physically active."
+1274,Intestinal infection,135,0,0,1,Proper hand-washing.Washing of soiled articles of clothing.
+1275,Viral infection,7,0,0,1,Cover your mouth when you cough or sneeze.Frequent hand-washing.
+1276,Thyroid disorders,48,1,0,1,"Eat Apples, pears, plums and citrus fruits "
+1277,Abdominal hernia,143,1,1,1,"Eat high-fiber foods and drink plenty of water. Maintain a healthy body weight.Eat enough fruits, vegetables and whole grains to avoid constipation."
+1278,Short gestation; low birth weight; and fetal growth retardation,219,1,0,1,Follow a healthy diet during pregnancy. This will help you to gain enough weight to help your baby grow and help you stay healthy.
+1279,Conduction disorders,105,0,2,1,Eat heart-healthy foods.Maintain follow-up care.Exercise regularly
+1280,Hemmoroids,120,1,1,1,"eat more foods that are high in fiber.Drinking water and other liquids, such as fruit juices and clear soups, can help the fiber in your diet work better."
+1281,Headache; including migraine,84,0,2,1,"Sip a caffeinated drink. In small amounts, caffeine alone can relieve migraine pain in the early stages."
+1282,Headache; including migraine,84,1,1,1,"Turn off the lights. Light and sound can make migraine pain worse. Relax in a dark, quiet room."
+1283,Gout and other crystal arthropathies,54,1,3,1,"Eat a healthy diet. Avoid foods that may trigger a gout flare, including foods high in purines (like a diet rich in red meat, organ meat, and seafood), "
+1284,Genitourinary congenital anomalies,215,0,1,1,Choose a healthy lifestyle. Keep diabetes under control.Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1285,Forceps delivery,194,1,1,1,Using upright positions or lying on your side and not having an epidural may also help.
+1286,Fluid and electrolyte disorders,55,0,0,1,drink plenty of water during physical activity. Eat a balanced diet containing electrolyte-rich foods.
+1287,Essential hypertension,98,0,2,1,Eat a Healthy Diet. Choose healthy meal and snack options to help you avoid high blood pressure.
+1288,Encephalitis (except that caused by tuberculosis or sexually transmitted disease),77,0,1,1,Use proper hygiene and hand-washing to help prevent the spread of viruses and bacteria.
+1289,Early or threatened labor,184,1,0,1,Eat a balanced diet with foods containing iron and folic acid.Don't use street drugs and avoid misuse of prescription drugs.
+1290,Diseases of mouth; excluding dental,137,0,2,1,Brush your teeth twice a day with fluoride toothpaste.Floss regularly.Eat a well-balanced diet.
+1291,Diabetes mellitus without complication,49,0,4,1,Be more physically active. Eat healthy plant foods.Skip fad diets and make healthier choices.
+1292,Diabetes mellitus without complication,49,0,2,1,Be more physically active. Eat healthy plant foods.Skip fad diets and make healthier choices.
+1293,Crushing injury or internal injury,234,0,0,1,Cover the area with a wet cloth or bandage.Warm up and cool down.
+1294,Conduction disorders,105,0,1,1,Eat heart-healthy foods.Maintain follow-up care.Exercise regularly
+1295,Retinal detachments; defects; vascular occlusion; and retinopathy,87,0,2,1,"Aerobic physical activities are usually fine, but your doctor may recommend brisk walking rather than running or jogging."
+1296,Conditions associated with dizziness or vertigo,93,0,3,1,Have the person lie down and rest.
+1297,Conditions associated with dizziness or vertigo,93,0,2,1,Have the person lie down and rest.
+1298,Conditions associated with dizziness or vertigo,93,1,2,1,Have the person lie down and rest.
+1299,Complications of surgical procedures or medical care,238,1,0,1,"Facial protection (eyes, nose, and mouth).Respiratory hygiene and cough etiquette."
+1300,Chronic obstructive pulmonary disease and bronchiectasis,127,1,1,1,Eat right and exercise.Get rest.Use oxygen appropriately.
+1301,Chronic kidney disease,158,0,3,1,Exercise regularly. Healthy diet.Get enough sleep.
+1302,Cardiac and circulatory congenital anomalies,213,0,0,1,"Reducing obesity, providing better control of diabetes."
+1303,Cancer; other and unspecified primary,41,1,4,1,"keeping a healthy weight, avoiding tobacco, limiting the amount of alcohol you drink, and protecting your skin.Eat a diet rich in whole grains, vegetables, fruit, and beans."
+1304,Calculus of urinary tract,160,0,1,1,"drinking plenty of water.drink water, but drinks like tea and coffee also count."
+1305,Blindness and vision defects,89,1,2,1,Maintain a healthy weight.Maintain your blood sugar levels.
+1306,"Attention-deficit, conduct, and disruptive behavior disorders",652,1,0,1,Develop a Healthy Relationship.
+1307,Allergic reactions,253,0,2,1,"Cover the area with a bandage. If there's swelling, apply a cold compress to the area"
+1308,Administrative/social admission,255,1,1,1,
+1309,Acute and chronic tonsillitis,124,0,1,1,"Wash your hands often, especially before touching your nose or mouth.Replace your toothbrush regularly."
+1310,Inflammatory conditions of male genital organs,165,0,4,1,Maintain a healthy lifestyle.Practice good Hygiene.
+1311,Joint disorders and dislocations; trauma-related,225,0,1,1,Staying physically active to keep the muscles and tendons around the joints strong.Maintaining a healthy weight 
+1312,Miscellaneous disorders,670,1,4,1,Handle & Prepare Food Safely. Food can carry germs.Cough and Sneeze into a Tissue or Your Sleeve.Wash Hands Often.
+1313,Nausea and vomiting,250,0,2,1,Eat ginger. Ginger is a popular natural remedy for nausea. Drinks containing sugar calm the stomach better than other liquids.
+1314,Retinal detachments; defects; vascular occlusion; and retinopathy,87,1,3,1,"wearing safety goggles or other protective eye gear when doing risky activities, like playing sports."
+1315,Retinal detachments; defects; vascular occlusion; and retinopathy,87,1,1,1,"wearing safety goggles or other protective eye gear when doing risky activities, like playing sports."
+1316,Poisoning by psychotropic agents,241,0,4,1,
+1317,Poisoning by psychotropic agents,241,0,1,1,
+1318,Poisoning by psychotropic agents,241,1,0,1,
+1319,Poisoning by other medications and drugs,242,1,0,1,"Immediately get the person to fresh air, without placing yourself at risk. Loosen any tight clothing at the neck. Open doors and windows, if indoors. Avoid breathing fumes."
+1320,Peripheral and visceral atherosclerosis,114,1,1,1,Get plenty of physical activity to help prevent PAD or improve symptoms of PAD.Regular Exercise.
+1321,Parkinson`s disease,79,0,3,1,"Eat Fresh, Raw Vegetables.Eat Vitamin D3 items.Drink Green tea."
+1322,Parkinson`s disease,79,0,2,1,"Eat Fresh, Raw Vegetables.Eat Vitamin D3 items.Drink Green tea."
+1323,Otitis media and related conditions,92,0,0,1,wash hands and toys frequently to reduce your chances of getting a cold or other respiratory infection. eat healthy foods like fruit and vegetables.
+1324,Other upper respiratory infections,126,1,0,1," Wash hands, especially before eating or preparing food. Sneeze and cough into your arm or a tissue and wash hands after."
+1325,Other skin disorders,200,1,1,1,"Wash your hands often and properly.Do not share items, such as towels etc."
+1326,Other non-traumatic joint disorders,204,1,2,1,"Physical activity, along with a balanced diet.Vitamin D. Vitamin D is a vitamin and antioxidant studied for its effects on arthritis and joint health."
+1327,Other non-epithelial cancer of skin,23,0,3,1,Wear clothing that covers your arms and legs.Wear sunglasses that wrap around and block both UVA and UVB rays.
+1328,Other nervous system disorders,95,0,0,1,Exercise regularly.Get plenty of rest.Drink plenty of water and other fluids.
+1329,Other male genital disorders,166,0,3,1,Stay physically active. Pay attention to your mental health. 
+1330,Other inflammatory condition of skin,198,1,0,1,Protect yourself from the sun.Wash your hands often and properly. 
+1331,Other hematologic conditions,64,1,1,1,"Use of personal protective equipment (e.g., gloves, masks, eyewear).Safe injection practices (i.e., aseptic technique for parenteral medications)."
+1332,Other eye disorders,91,1,4,1,Maintain a healthy weight. Wear protective eyewear. Eat right to protect your sight. 
+1333,Other diseases of veins and lymphatics,121,1,2,1,Manage weight. Shedding excess pounds takes unnecessary pressure off the veins.Raise the legs.
+1334,Other diseases of bladder and urethra,162,0,1,1,"Drink plenty of fluids, especially water.Try drinking at least 50 ounces, or about 1.5 liters, of fluid daily to prevent infections."
+1335,Other and unspecified benign neoplasm,47,0,1,1,Maintain a healthy weight and be physically active.Protect yourself from the sun.
+1336,Open wounds of head; neck; and trunk,235,0,2,1,Wash the area with mild soap and water.Ice the area for 20 minutes using ice wrapped in a towel or cloth
+1337,Open wounds of extremities,236,0,4,1,Wash your hands. Cover the wound.Apply an antibiotic or petroleum jelly.
+1338,Nonspecific chest pain,102,0,1,1,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1339,Nonspecific chest pain,102,1,1,1,"Work all of your chest muscles by moving up and down, and side to side. Raise and lower your arms to mobilize the tissue under the ball."
+1340,Noninfectious gastroenteritis,154,1,1,1,"Respiratory hygiene and cough etiquette.Facial protection (eyes, nose, and mouth)"
+1341,Non-Hodgkin`s lymphoma,38,1,1,1,Avoiding activities that increase the chance of getting HIV/AIDS and hepatitis C infections.
+1342,Nervous system congenital anomalies,216,1,1,1,Plan ahead. Get 400 micrograms (mcg) of folic acid every day.
+1343,Lymphadenitis,247,1,0,1,Washing your hands regularly with soap and water
