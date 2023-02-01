@@ -1,5 +1,5 @@
 Python 3.9.4
-Streamlit
+Streamlit, version 1.17.0
 Pandas
 Numpy
 Matplotlib
