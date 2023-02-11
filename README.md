@@ -23,11 +23,13 @@ Python
 Streamlit
 ## Steps to execute the project
 1. Install the latest version of Visual Studio Code and Python interpreter.
+
 2. Create a folder in your system with above mentioned files and open that folder in visual studio code.
 
 (Folder must contain : kaggle dataset(rename it as Health Care),ipynb notebook,ap.py(python file),csv.csv(intermediate csv file),rf.pkl)
 
 3. Click the ap.py file.
+
 4. In the terminal of VS Code, install the necessary python libraries and required modules through pip command.
 
 (For example: pip install streamlit
