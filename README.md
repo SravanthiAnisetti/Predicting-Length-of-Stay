@@ -32,8 +32,7 @@ Streamlit
 
 4. In the terminal of VS Code, install the necessary python libraries and required modules through pip command.
 
-(For example: pip install streamlit
-
+(For example: pip install streamlit,
               pip install -U jupyter etc)
               
     5.Then run ap.py through the command : streamlit run ap.py
