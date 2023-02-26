@@ -17,20 +17,23 @@ This dataset contains 1+ million rows of patient data, including information suc
 
 ### Tool 
 Visual Studio Code
+
 ### Programming Language
 Python
+
 ### Framework
 Streamlit
+
 ## Steps to execute the project
 1. Install the latest version of Visual Studio Code and Python interpreter.
 
-2. Create a folder in your system with above mentioned files and open that folder in visual studio code.
+2. Create a folder in your system with below mentioned files and open that folder in visual studio code.
 
-(Folder must contain : kaggle dataset(rename it as Health Care),ipynb notebook,ap.py(python file),csv.csv(intermediate csv file),rf.pkl)
+(Folder must contain : kaggle dataset(rename it as Health Care),ipynb notebook,ap.py(python file),csv.csv(intermediate csv file),rf.pkl,requirements.txt)
 
 3. Click the ap.py file.
 
-4. In the terminal of VS Code, install the necessary python libraries and required modules through pip command.
+4. In the terminal of VS Code, install the necessary python libraries and required modules as per the requirements,through pip command.
 
 (For example: pip install streamlit,
               pip install -U jupyter etc)
