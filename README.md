@@ -27,9 +27,9 @@ Streamlit
 ## Steps to execute the project
 1. Install the latest version of Visual Studio Code and Python interpreter.
 
-2. Create a folder in your system with below mentioned files and open that folder in visual studio code.
+2. Create a folder in your system with below mentioned files and open that folder in visual studio code.Run all cells of ipynb notebook.
 
-(Folder must contain : kaggle dataset(rename it as Health Care),ipynb notebook,ap.py(python file),csv.csv(intermediate csv file),rf.pkl,requirements.txt)
+(Folder must contain : kaggle dataset(rename it as Health Care),ipynb notebook,ap.py(python file),csv.csv(intermediate csv file),requirements.txt)
 
 3. Click the ap.py file.
 
